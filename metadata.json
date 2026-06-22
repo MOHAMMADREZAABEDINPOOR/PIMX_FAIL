@@ -1,0 +1,6 @@
+{
+  "name": "PIMXFAIL",
+  "description": "The world's largest database, post-mortem analysis repository, and AI-powered failure diagnostic tool for failed startups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

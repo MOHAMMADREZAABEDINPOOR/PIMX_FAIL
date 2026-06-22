@@ -1,0 +1,2209 @@
+#511
+Imercive
+SaaS / Software / AI
+For one, we stuck with the wrong strategy for too long. I think this was partly because it was hard to admit the idea wasn’t as good as I originally thought or that we couldn’t make it work. If we had been honest with ourselves earlier on we may have been able to pivot sooner and have enough capital left to properly execute the new strategy. I believe the biggest mistake I made as CEO of Imercive was failing to pivot sooner.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#512
+Meetro
+Technology / Startup
+We could have gone about trying to fix Meetro but the team was just ready to move on. Raising money on the flat growth we had was nearly impossible. Plus I knew that in order to keep the tight-knit team we had built together, we needed to shift focus for sanity sake. People (myself included) just felt beat up. We knew that fixing these issues would involve a complete rearchitecturing of the code, and people just weren’t excited about the idea enough anymore to do it right.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#513
+eCrowds
+Technology / Startup
+As the product became more and more complex, the performance degraded. In my mind, speed is a feature for all web apps so this was unacceptable, especially since it was used to run live, public websites. We spent hundreds of hours trying to speed of the app with little success. This taught me that we needed to having benchmarking tools incorporated into the development cycle from the beginning due to the nature of our product.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#514
+RealTime Worlds
+Media / Social / Gaming
+Dave Jones made a virtue of having no business model for APB. He said “if a game is built around a business model, that’s a recipe for failure.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#515
+Q&A Service
+Technology / Startup
+But the more we moved down the path, the more I realized the complexities involved with selling answers. Knowledge is a tricky thing to sell, because even experts disagree on some answers. What’s worse, most people think they know more than they really do. Look at how many idiots think they know stocks, or programming, or even business. Nearly everyone thinks they can give good management tips. It is difficult to sell something so… confusing, and we realized it would lead to problems down the road. Yahoo, and most of the other sites, fix this by having people vote on the best answer, but we couldn’t post answers in public because that would take away our residual incentives. And anyway, I’m not convinced in the “wisdom of crowds” for anything beyond general knowledge. It doesn’t work for domain specific stuff.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+97%
+Management & Governance
+
+
+#516
+Backfence
+Healthcare / Biotech
+Hyper-local is really hard. Don’t kid yourself. You don’t just open the doors and hit critical mass. We knew that from the jump. It takes a lot of work to build a community. Look carefully at most hyper-local sites and see just how much posting is really being done, especially by members of the community as opposed to be the sites’ operators. Anybody who’s run a hyper-local site will tell you that it takes a couple of years just to get to a point where you’ve truly got a vibrant online community. It takes even longer to turn that into a viable business. Unfortunately, for a variety of reasons, Backfence was unable to sustain itself long enough to reach that point.
+طول عمر:
+2007 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#517
+Sedna Wireless
+E-Commerce / Consumer
+Finances were just one part of the story. The other part was that we failed to execute our own plans. Both external factors (e.g. the hardware ecosystem in India) and internal reasons (e.g. the expertise of the team) played a role. With money it would have lasted a bit more longer.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#518
+Freshly
+FoodTech / Delivery
+Freshly is halting direct-to-consumer (D2C) meal deliveries as economic challenges rack the company and the broader meal delivery industry… …as consumers left their homes in 2021, shifting their food spending to dining out, and as economic conditions worsened in 2022, prompting many consumers to pare back their retail subscriptions, the company’s performance took a turn for the worse.
+طول عمر:
+2021 - 2022 (1 yrs تقریبی)
+سرمایه‌گذاری:
+$107M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#519
+KupiVIP
+SaaS / Software / AI
+‘It is true that the initial business model turned out no longer unique. A commercial innovation introduced in Russia by KupiVIP, discounts progressively became the norm both online and offline,’ David Waroquier of Mangrove Capital Partners previously told East-West Digital News. ‘KupiVIP attempted to become omnichannel, involving operating across its websites, mobile app and brick-and-mortar retail stores. All this required significant capital, given the size of the Russian market,’ Waroquier added. ‘While the international context was less favorable, not all local players were able or willing to invest in the company.’
+طول عمر:
+2021 (نامشخص)
+سرمایه‌گذاری:
+$119.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#520
+LeSports
+SaaS / Software / AI
+The Hong Kong-based sports streaming arm of cash-starved mainland Chinese conglomerate LeEco closed on Thursday night because of overdue rent. LeSports HK confirmed its shutdown amid other problems – the Consumer Council revealed it also received 30 subscription-related complaints against the troubled company.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$1.7B
+شاخص شکست
+80%
+Multiple Factors
+
+
+#521
+Beequick
+SaaS / Software / AI
+According to media reports, Beequick has now moved out of its original office space, and the app has been removed from major app stores such as Apple and Xiaomi. It is suspected to be out of service. At the same time, the owner of Beequick has also received a formal notice of suspension. This community convenience store [startup], which once set off the Online-to-Offline wave, has ended.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$110M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#522
+iwujiwu
+SaaS / Software / AI
+While no official statement has been made, the former unicorn’s website appears to be inactive: Aiwujiwu, the Chinese online property listings platform and “unicorn,” had ceased regular operations as of the end of January 2019, according to mainland news reports. The company is in a liquidation phase, and services are no longer available on its website (www.iwjw.com) and app.
+طول عمر:
+2019 (نامشخص)
+سرمایه‌گذاری:
+$305M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#523
+Abound Solar
+CleanTech / Energy
+Abound Solar was the manufacturer of cadium telluride thin-film photovoltaic modules for solar panels. During its run, the company received support from institutions like Colorado State University and the National Science Foundation. In addition to its VC investors, the startup was heavily backed by a loan from the US Department of Defense and a grant from the US Department of Energy. With $614M in Total disclosed funding when it went under in 2012, the company is the third-costliest startup failure in our database.
+طول عمر:
+2012 (نامشخص)
+سرمایه‌گذاری:
+$614M
+شاخص شکست
+80%
+Technical / Product Issues
+
+
+#524
+ReVision Optics
+Technology / Startup
+ReVision Optics developed an implantable corneal device to treat presbyopia, a vision condition which results in the loss of the eyes’ ability to focus on nearby objects. In an interview with OIS Weekly, ReVision president and CEO John Kilcoyne called the presbyopia segment “very challenging.” He said the reason for shuttering ReVision was that the company “could not get the business to grow fast enough.” The firm would have needed significantly more capital to achieve positive cash flow, and the investors … were reluctant to put more money in. Corneal inlays may yet find their place in ophthalmologists’ business models, but as of now they require more time and effort in a practice than either refractive or cataract surgery, which typically involve the operation itself and one follow-up visit. “Ophthalmic surgeons do not want to keep seeing their patients,” Kilcoyne said.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$172M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#525
+Primary Data
+Hardware / Electronics
+According to a trusted source close to the company, Primary Data’s problem from the outset was that its technology was never quite as compelling as it needed to be, given that it was trying to sell mission-critical software. (If it’s not up to snuff, data virtualization software can create challenges with manageability, usability, data quality and performance.) Immediately upon joining Primary Data, [former CEO] Lance Smith realized that its burn rate was out of control, particularly for a company with no revenue. But while the processes Smith instituted helped, they didn’t change the fact that Fortune 500 companies weren’t prepared to buy Primary Data’s technology.
+طول عمر:
+2018 (نامشخص)
+سرمایه‌گذاری:
+$103M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#526
+Mode Media
+Technology / Startup
+The general consensus of the employee base is that there was mismanagement of finances,” said one former company executive… It was the most unprofessional, unethical experience imaginable. [A] confirmed catastrophe,” another exec said about the shutdown. “It’s so catastrophically unethical. No one can believe it.
+طول عمر:
+2016 (نامشخص)
+سرمایه‌گذاری:
+$229M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#527
+Next Step Living
+SaaS / Software / AI
+The firm intended to provide a missing channel for residential energy services leveraging its core energy-audit business. At one point Next Step Living had more than 800 employees and was generating more than $100 million in annual revenue. In order to spur revenue, the company moved into downstream energy services such as solar installation and insulation installation and found itself in a low-margin business with a high rate of cash burn. The company also found itself confronted by conflicting energy program mandates and regulations. By the time NSL tried to return to its core home energy audit skills and jettison its downstream installation businesses, many of the VC investors had chosen to stop investing in NSL, despite their earlier entreaties for growth at all costs.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$100.8M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#528
+AwarePoint
+Technology / Startup
+Awarepoint executives and board members could not be reached to comment on a recent tip from a former Awarepoint employee, who asked to remain anonymous and who said the company had unexpectedly shut down. A separate tip, sent to me Tuesday by direct message on Twitter from a pseudonym, said the company shut down on May 24. CEO Tim Roche did not respond to a voice message left on his office phone or to an e-mail. Awarepoint’s offices on the second floor of the One America Plaza building in downtown San Diego were locked Wednesday afternoon, and a building representative said the company was gone.
+طول عمر:
+2018 (نامشخص)
+سرمایه‌گذاری:
+$100.9M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#529
+Powa Technologies
+Technology / Startup
+Powa Technologies was a UK mobile-commerce startup once valued in the billions on the promise of its 'PowaTag' shopping technology. It raised ~$200M but generated minimal real revenue while spending lavishly on offices and staff. The gap between hype and actual traction was unbridgeable, and it collapsed into administration in 2016.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$176.3M
+شاخص شکست
+97%
+Management & Governance
+
+
+#530
+Lilliputian Systems
+SaaS / Software / AI
+The Nectar system had its roots at MIT’s Microsystems Technology Lab — and may have simply left the lab a few years too early.
+طول عمر:
+2014 (نامشخص)
+سرمایه‌گذاری:
+$150.4M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#531
+OnLive
+Technology / Startup
+First there were doubts about its ability to deliver a lag-free experience, then business troubles led to a form of bankruptcy followed by big layoffs and a buyout, and all sorts of uncertainty after that.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$116.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#532
+Coraid
+SaaS / Software / AI
+Its U.S. operations and had not been successful in raising new funding, among other things. A CRN report earlier this month said the company was closing up for good and was filing for bankruptcy.
+طول عمر:
+2015 (نامشخص)
+سرمایه‌گذاری:
+$114.3M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#533
+Terralliance
+Technology / Startup
+All told, the investors had sunk nearly half-a-billion dollars into Terralliance, an astounding sum given the audacity of the company’s aspirations — and the paucity of its accomplishments.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$296.3M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#534
+Webvan Group
+Fintech / Payments
+They spent so much money on all this infrastructure, which was basically part of their business model,” [stock analyst David] Kathman said. “But what they hoped was going to be their advantage turned out to be their downfall. They got big fast, but size turned out to be an albatross when the demand wasn’t there. One reason demand fell short was that Webvan wasn’t as convenient as it billed itself, Kathman said.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$275.2M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#535
+Amp’d Mobile
+SaaS / Software / AI
+Maybe it was Verizon’s most recent in-court request to stop serving up costly airwaves for which it couldn’t pay, maybe it was the cold reality that it’ll allegedly have a mere $9,000 in the bank as of next Monday — but at any rate, Amp’d Mobile appears ready to throw in the towel.
+طول عمر:
+2007 (نامشخص)
+سرمایه‌گذاری:
+$324.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#536
+AllAdvantage.com
+SaaS / Software / AI
+In a statement posted on the site, the company said the move was taken because “the advertising and capital markets have changed so fundamentally that it is now impossible to continue our infomediary incentive programs and benefits.”… The company saw traffic to its Web site drop significantly during the last six months of 2000. In June, the site was drawing visitors 2 million visitors each month, according to Nielsen/NetRatings. That number dropped to less than 600,000 by December.
+طول عمر:
+2000 - 2001 (1 yrs تقریبی)
+سرمایه‌گذاری:
+$133.8M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#537
+Kozmo.com
+Technology / Startup
+Kozmo promised free one-hour delivery of videos, snacks, and small items with no minimum order. The model was structurally unprofitable: dispatching a courier for a single candy bar cost far more than the margin on the order. Despite raising ~$280M, it never fixed these unit economics. It shut down in 2001 as a defining example of on-demand delivery that ignored the math.
+طول عمر:
+2001 (نامشخص)
+سرمایه‌گذاری:
+$256.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#538
+eToys
+SaaS / Software / AI
+eToys was a high-flying online toy retailer that raced to out-market rivals during the dot-com boom, spending heavily on advertising and warehousing. Concentrated holiday-season demand, thin margins, and brutal competition from Toys R Us and Amazon left it unable to cover its costs. After a disappointing holiday and the market crash, it went bankrupt in 2001.
+طول عمر:
+2001 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#539
+Caspian Networks
+Technology / Startup
+First core routing. Then P2P networking. Then net neutrality. Investors apparently put the kibosh on the company before it crow-barred itself into another communications fad.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$260M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#540
+Pay By Touch
+SaaS / Software / AI
+Despite those early customers, processing fingerprint payments has not taken off as expected. Pay By Touch claims that it has fingerprint scanners in 3,000 stores, but the privately held company has never disclosed how many transactions it processes. For millions of consumers accustomed to using credit and debit cards, the proposition of using a fingerprint hasn’t been all that appealing. “It’s hard to fight the credit-card companies,” says Gartner (IT) analyst Avivah Litan. “Consumers are so used to racking up frequent-flier miles and other rewards that it’s like a David vs. Goliath situation. There’s just not much of a value proposition for the consumer to use a fingerprint.
+طول عمر:
+2007 (نامشخص)
+سرمایه‌گذاری:
+$130M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#541
+RealNames Corporation
+Technology / Startup
+RealNames said it had no choice to but to close operations as Microsoft was its primary distribution partner. Microsoft was owed $25 million for RealNames “resolutions” already delivered over the past two years and remained unwilling to bet that RealNames would become successful in the long-term. In addition, Microsoft expressed concerns about the quality of RealNames keywords that were sold. The bad guy in all of this is clear: Microsoft, at least when reading the commentary posted on the weblog run by RealNames founder and former CEO Keith Teare, as well as comments he’s made to the press.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$116.2M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#542
+Arts Alliance
+Technology / Startup
+The firm mis-timed and failed to execute on a good idea,” Torris said. “They started by keeping most of their target audience out,” she added, referring to the need for high-speed connections to easily use the site. Torris said Boo.com also spent too much on advertising and promotions and failed to keep pushing forward on technology innovations. She pointed out that sites such as Landsend.com now feature similar “try on” technology and that third party vendors have begun to develop similar Web sites.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$135M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#543
+Savaje Technologies
+Technology / Startup
+Now the company is close to closing its doors as it seeks additional funding from venture capitalists. The company, which employs about 140 people, had furloughed its developers and some other employees early in October, asking them to use up their vacation time or go on unpaid leave while Savaje moved to find its way out of its financial troubles.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$113.7M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#544
+Pets.com
+SaaS / Software / AI
+Pets.com became the poster child of the dot-com bust, spending lavishly on marketing (including its famous sock-puppet mascot and a Super Bowl ad) before it had a viable business. It sold pet supplies online at or below cost while shouldering heavy shipping expenses for bulky, low-margin goods. Demand never justified the spend, and it collapsed in 2000 just nine months after its IPO.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$110M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#545
+Cereva Networks
+SaaS / Software / AI
+A victim of swiftly shrinking corporate IT budgets and a sharp drop in demand for the startup’s large-scale enterprise storage systems, the Marlborough, MA.-based company last week abruptly shut down and laid off 140 employees.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$109.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#546
+COPAN Systems
+SaaS / Software / AI
+The COPAN product was well differentiated. The weakness was their not understanding, focusing and exploiting its sweet spot. A consequence of an incomplete or erroneous market understanding and a sole reliance on the internal body of experience and knowledge.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$108.4M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#547
+Verdezyne
+CleanTech / Energy
+Confirmed this month, Verdezyne, the synthetic biology company that was founded in 2008 and was working on the production of renewable chemicals, using their own highly-proprietary platform, has gone into bankruptcy. First reported by BiofuelsDigest, this month Green Chemicals Blog had spoken with a senior employee from Verdezyne, who said the Californian company closed its operations on May 15th due to its primary investor, Sime Darby, having withdrawn its funding. The closure of the company came ahead of the imminent opening of its first commercial facility, which would have been an impressive achievement for an industry where one of the main challenges lies in producing bio-based materials on an industrial scale.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+$89.4M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#548
+DeNovis, Inc.
+Technology / Startup
+In a Boston Globe interview in January, he had indicated that the company’s financial performance was a pressing concern. He said the $22 million in venture capital the company raised nine months ago was effectively its last chance. But having spent such a large sum of venture capital, DeNovis needed to go public or find a deep-pocketed buyer to return a large profit to its investors. Burkett said at the time, ”I only hear that about 11 times a day.
+طول عمر:
+2004 (نامشخص)
+سرمایه‌گذاری:
+$97.8M
+شاخص شکست
+80%
+Technical / Product Issues
+
+
+#549
+Aereo
+Fintech / Payments
+Aereo streamed over-the-air broadcast TV to subscribers using thousands of tiny individual antennas, arguing this made it legal. Broadcasters sued, and in 2014 the U.S. Supreme Court ruled Aereo violated copyright by effectively retransmitting their content. The adverse ruling destroyed its entire legal basis overnight, and the company filed for bankruptcy weeks later.
+طول عمر:
+2009 - 2014 (5 yrs تقریبی)
+سرمایه‌گذاری:
+$97M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#550
+Canopy Financial
+SaaS / Software / AI
+…company management discovered earlier this month financial records provided to investors and lenders that were “fraudulent,” as well as “significant financial and accounting irregularities.
+طول عمر:
+2009 (نامشخص)
+سرمایه‌گذاری:
+$89.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#551
+Soapstone Networks
+Technology / Startup
+Soapstone was an underdog from the start. Even as a known quantity, it was going to have to wrestle with the slow process of qualification at big carriers. The recession certainly didn’t help. And it seems to me (and one source from outside Soapstone agrees) that while Soapstone wasn’t entirely wrapped up in PBB-TE (Provider Backbone Bridging – Traffic Engineering), the stall in that technology’s ascent was a contributing factor, too.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$87.3M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#552
+Claria Corporation
+SaaS / Software / AI
+The company realized that there were too many ad networks out there, and with the souring outlook for advertising, it made better sense to close shop and sell the company’s extensive set of patents, the source said.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+$84M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#553
+38 Studios
+Technology / Startup
+Add it all up, including interest, and already-cash-strapped Rhode Island could be out as much as $110 million on the loans. As Schilling sits beside the softball diamond, his company, with nearly $151 million in debt and just $22 million in assets, is being liquidated through Chapter 7 bankruptcy.
+طول عمر:
+2012 (نامشخص)
+سرمایه‌گذاری:
+$75M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#554
+SunRocket
+SaaS / Software / AI
+Analysts have been predicting that it would be difficult for companies, like SunRocket and the more popular Vonage, to base an entire business around a VoIP service. While VoIP makes it relatively cheap to serve customers, it’s still expensive to acquire them. ## Startup Failures: Total funding from $50M — $75M
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$79.3M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#555
+IfOnly
+Technology / Startup
+IfOnly — an “experiences” marketplace based around access to exclusive, and often expensive, events and people, with a portion of the proceeds that a guest pays for the experience going towards good causes — was quietly acquired and shut down by credit giant Mastercard for an undisclosed sum. Mastercard told TechCrunch that it has folded the tech and team into Priceless — its own experiences marketplace — after initially leading a strategic investment in the company in 2018. …IfOnly’s business had ground to a halt in the wake of the coronavirus pandemic… The sale (and closure) puts an end to a startup that began life with exclusive experiences that appeared to be aimed squarely at the one percent.
+طول عمر:
+2018 - 2020 (2 yrs تقریبی)
+سرمایه‌گذاری:
+$54M
+شاخص شکست
+97%
+Management & Governance
+
+
+#556
+Wellfount
+Technology / Startup
+The sky seemed the limit. “It’s a very scalable model,” CEO Eric Orme told IBJ in 2014. But last month, Wellfount quietly shut its doors, stopped answering its phones and pulled down its website. Several employees told IBJ the company closed on March 31 [2019] and laid them off. Nursing homes, the company’s largest customers, were caught off guard. […] What happened at Wellfount remains unclear, though industry observers say the competitive landscape shifted for the company in recent years, as the vending machine-style medicine dispensers it helped pioneer became available from many vendors.
+طول عمر:
+2014 - 2019 (5 yrs تقریبی)
+سرمایه‌گذاری:
+$51M
+شاخص شکست
+97%
+Management & Governance
+
+
+#557
+Gridco Systems
+Healthcare / Biotech
+Utilities have failed so far to expand their use of distribution grid-level power electronics much beyond the pilot phase, leaving Gridco with little opportunity to grow to the scale necessary to maintain its operations on the strength of its own revenues. Though we were able to successfully prove Gridco’s technology as best-in-class for use in utility-scale volt/VAR optimization programs, the VVO market did not actualize quickly enough for us to achieve critical mass and financial self-sustainability,” said CEO Naimish Patel.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$54M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#558
+TerraLUX
+Technology / Startup
+A fast-growing maker of LED and smart lighting doesn’t have enough cash to keep its own lights on. Longmont-based Terralux, now known as Sielo, ceased all operations on Aug. 3 and is now looking for a buyer to get things running again. As of December 2016, the company employed 57 people, according to the Longmont Economic Development Partnership. Lundie declined to comment on current workforce numbers. Lundie said the shutdown was necessary because “there wasn’t money to continue.” He declined to answer further questions, citing ongoing negotiations.
+طول عمر:
+2016 - 2017 (1 yrs تقریبی)
+سرمایه‌گذاری:
+$55.6M
+شاخص شکست
+80%
+Technical / Product Issues
+
+
+#559
+Sand 9
+Healthcare / Biotech
+Consultant Mark Sherwood, principal associate with Consulting Services and Associates LLC (Cupertino, Calif.), told eeNews Europe that although the piezoelectric technology showed promise Sand 9 had hit technical issues amidst changing markets and effectively outlasted investors’ patience.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$55.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#560
+Beenz.com
+Technology / Startup
+After the Internet bubble burst, e-currency companies tried to evolve by concentrating on business customers, but the collapse of a high-profile trailblazer such as Beenz shows that the Old Economy credit card companies have probably won the online shopping battle. Experts believe that online currency sites such as Beenz were overtaken as a way of shopping online by credit cards, which had the advantage of being virtually universally accepted both on and offline.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$73.8M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#561
+Veoh Networks
+SaaS / Software / AI
+…the venture was pronounced dead in a tweet today by Veoh board member Todd Dagres of Spark Capital, a Boston VC firm that invested in Veoh Networks. Dagres tweeted, “Veoh is dead. Universal Music lawsuit was the main killer. Veoh won resoundingly but was mortally wounded by the senseless suit. Next.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$70.8M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#562
+Dash Navigation
+SaaS / Software / AI
+User adoption was slow, likely because the device carried a $600 price tag (later reduced to $399), but the service won praise from many reviewers, including Om. The navigation device was designed with true mobile web access and interactivity in mind, but sales were sluggish.
+طول عمر:
+2009 (نامشخص)
+سرمایه‌گذاری:
+$41M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#563
+Move Networks
+Technology / Startup
+So what went wrong? For one thing, Move Networks never reached critical mass on the consumer side of things; despite early success with ABC, Fox, the CW, and others, many media companies shied away from the technology because it required a plugin that not many consumers had installed. This created a vicious chicken-and-egg problem: How do you get people to install the plugin if it’s not being used to deliver good premium content? And how do you get good premium content unless people already have the plugin installed?
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$60.3M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#564
+Expand Networks
+Technology / Startup
+Although Expand Networks won appreciation for its technology, its operational performance was much less impressive. The court documents show that it was losing $ 250,000 a month and had $ 11 million revenue in 2010. Although it was a pioneer in its field, it failed to make a breakthrough.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$69M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#565
+Ecast
+SaaS / Software / AI
+The San Francisco-based technology firm’s board of directors voted for an immediate shutdown after the company failed to raise enough capital to continue operating. “We worked diligently for this not to happen,” said Ecast vice-president of network operations Scott Walker. “We appreciate all the support from jukebox operators and the industry.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$66.8M
+شاخص شکست
+97%
+Management & Governance
+
+
+#566
+Edgix
+Hardware / Electronics
+Companies that joined in during the last few years are primarily the ones dropping out. Many never had a sound business model to begin [with]. Edgix is one example. The company was basically a carbon copy of Cidera and other ISP caching solutions, with little new to offer. They basically launched a platform and went into business believing they would quickly generate revenue. Unfortunately for companies such as Edgix, once you continually say to investors, ‘There is a market out there and we can own it,’ you start to believe it yourself.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$65M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#567
+DoubleTwist
+Technology / Startup
+Two months later, DoubleTwist bowed to the inevitable. “No one was surprised by this,” Williamson told the San Francisco Chronicle, “but everyone was disappointed. We had a great product and a great team — we just didn’t have the revenues.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$56.6M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#568
+Akimbo
+Technology / Startup
+The company had raised $4 million earlier this year from existing investors, but Chantel said the company was looking to raise $8 to 10 million to become cash positive with its new white-label strategy. Unfortunately, “there wasn’t enough runway to execute the plan,” he said.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+$54.7M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#569
+Sequoia Communications
+Technology / Startup
+Luis Arzubi, a general partner at Tallwood Ventures, told EE Times that Sequoia (San Diego) was forced to cease operations despite having working parts and customers because it failed to raise the needed capital to continue. The company and its investors “basically had no choice,” he said.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$54M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#570
+govWorks
+Technology / Startup
+govWorks, the brilliant idea, has been bungled badly in execution. Arrogant and overly aggressive, company officials have alienated key government partners and vendors. They have burned through millions in false starts and other fumbles, and it has lost time and ground to competitors. One of the co-founders has been forced out by the board and other senior executives. Now directors are looking for a more seasoned manager to help Isaza Tuzman run the company. Harvard Business School case study department, here they come. ## Startup Failures: Total funding from $25M — $50M
+طول عمر:
+2000 (نامشخص)
+سرمایه‌گذاری:
+$54M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#571
+New Age Eats
+Technology / Startup
+Cultivated pork maker New Age Eats closed because the company no longer had enough money to keep operating, founder and CEO Brian Spears announced on LinkedIn… …The company had little money, a fair amount of debt, no new investment dollars and no immediate path to product commercialization. Given these realities, Spears said in an interview, there was no choice but to shut down the company and repay creditors.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$32M
+شاخص شکست
+97%
+Management & Governance
+
+
+#572
+Layer
+Technology / Startup
+**Select VC investors:** Bloomberg Beta, Salesforce Ventures, Promus Ventures, Data Collective
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$37M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#573
+Call9
+Technology / Startup
+The company had raised $34 million in venture capital but struggled to secure additional capital to scale its business and manage the high cost of running a health-care business. The company said it laid off about 100 employees in the process of winding down.
+طول عمر:
+2019 (نامشخص)
+سرمایه‌گذاری:
+$34M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#574
+Swell Investing
+Fintech / Payments
+The California-based investment platform was founded in 2017 on impact investment principles. In a statement on the company’s website, it was announced that Swell would no longer be accepting new clients from 24 July. “Our journey began as a mission that every dollar you invest would have a positive impact on the world,” the statement reads. “Together, we built a product that allows you to invest in companies innovating to solve global challenges.” It continues: “While we’re incredibly proud of what we’ve accomplished together, Swell was not able to achieve the scale needed to sustain operations in the current market. As a result, we will be closing.
+طول عمر:
+2017 - 2019 (2 yrs تقریبی)
+سرمایه‌گذاری:
+$30M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#575
+ZipGo
+Technology / Startup
+ZipGo had earlier suspended operations in Bangalore and Mumbai two months ago, before completely shuttering down operations in other cities including Delhi NCR, Jaipur, Kolkata, and Pune.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$43.7M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#576
+Navdy
+Technology / Startup
+No one ever says hardware is easy, and today it looks like another promising startup has hit a wall. Navdy, which made an in-car heads-up display that projected info like navigation on to your windscreen, has been sending out notices to customers and others who might have claims against the company, as part of a General Assignment for the Benefit of Creditors. …the heads-up display market is very crowded … and even more so, considering that this isn’t a mainstream product today. Indeed, for many the jury may still be out on whether a display on your windscreen is less or more distracting than other kinds of displays and interfaces. Together, all this makes for a tricky product/market fit.
+طول عمر:
+2017 (نامشخص)
+سرمایه‌گذاری:
+$42M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#577
+Plaxo
+SaaS / Software / AI
+Comcast had hoped to turn Plaxo into a way “to bring the social media experience to mainstream consumers,” according to a blog post by the startup’s founders at the time of the acquisition. Among the ideas floated: discovering new TV shows to watch based on friends’ recommendations and sharing photos with friends and family that they could view “online, at work, on their mobile device, or in their living room watching TV.” But Plaxo never expanded beyond being a utility for syncing contacts.
+طول عمر:
+2017 (نامشخص)
+سرمایه‌گذاری:
+$35M
+شاخص شکست
+97%
+Management & Governance
+
+
+#578
+SideCar Technologies
+Fintech / Payments
+Sidecar Technologies Inc., a smaller rival to Uber whose investors include Alphabet Inc.’s Google Ventures and British billionaire Richard Branson, said it is shutting down its ride-sharing and delivery service and reassigning its staff to new projects. The San Francisco startup, which was co-founded by Sunil Paul in 2011 and says it has raised $39 million in financing, cited a capital disadvantage to its competitors for the reversal. Uber has raised more than $12 billion in debt and equity while Lyft Inc. has collected about $1 billion in funding.
+طول عمر:
+2011 (نامشخص)
+سرمایه‌گذاری:
+$36.3M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#579
+Nanochip
+SaaS / Software / AI
+No matter what, you’ll need $70 million to take [Nanochip’s technology] into production,” he [CEO Gordon Knight] said. That’s a large hurdle considering established chip companies have not been very active buyers lately and venture investors only put $327 million in chip deals in the first half of this year – not even half the amount for the same time last year, according to VentureSource, a research unit of Dow Jones & Co.
+طول عمر:
+2009 (نامشخص)
+سرمایه‌گذاری:
+$48.8M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#580
+Joost
+SaaS / Software / AI
+Joost was a peer-to-peer internet TV venture from the founders of Skype and Kazaa, requiring a heavy desktop client to watch licensed video. Browser-based streaming (notably YouTube and Hulu) quickly made its clunky download model obsolete, and content/usage never materialized as hoped. It pivoted and faded by 2009.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$45M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#581
+Pixelon
+Technology / Startup
+Pixelon claimed breakthrough video-streaming technology and spent much of its ~$35M funding on an extravagant Las Vegas launch party rather than building a real product. The technology was largely fraudulent, and founder 'Michael Fenne' turned out to be a fugitive con man named David Kim Stanley. The company imploded in 2000 in one of the dot-com era's most brazen frauds.
+طول عمر:
+2000 (نامشخص)
+سرمایه‌گذاری:
+$35M
+شاخص شکست
+97%
+Management & Governance
+
+
+#582
+Digg
+SaaS / Software / AI
+Digg pioneered social news aggregation and was hugely influential, but a poorly received 2010 redesign (v4) alienated its core community, which fled to Reddit and others. The redesign prioritized publishers over users and broke beloved features. Traffic collapsed and the once-iconic site was sold for a tiny fraction of its former value in 2012.
+طول عمر:
+2010 - 2012 (2 yrs تقریبی)
+سرمایه‌گذاری:
+$44M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#583
+ThumbPlay
+Fintech / Payments
+Our source tells us that the sale is a do-or-die scenario because the company is running out of cash: “The price is very low. No one is making any money.”… the music industry has been hit hard with cannibalisation from digital sales and piracy. And the promise of new revenues, on the back of the explosion in mobile and internet usage, have yet to materialise for most music companies, with Apple’s iTunes dominating the market with more than a 60 percent share.
+طول عمر:
+2011 (نامشخص)
+سرمایه‌گذاری:
+$41M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#584
+Color Labs
+SaaS / Software / AI
+Color raised an extraordinary ~$41M seed round before launching a photo-sharing app with a confusing, location-based interface that users didn't understand. The product had no clear value proposition and failed to gain traction despite the enormous pre-launch funding. It became a symbol of frothy hype detached from product-market fit, and its assets were essentially acqui-hired by Apple in 2012.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$41M
+شاخص شکست
+97%
+Management & Governance
+
+
+#585
+Xeround
+SaaS / Software / AI
+Xeround is shutting down their MySQL Database as a Service (DBaaS) because their free instances, while popular, simply did not convert into sufficient paid instances to support the company.
+طول عمر:
+2013 (نامشخص)
+سرمایه‌گذاری:
+$39.8M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#586
+Webvisible
+Technology / Startup
+Even with all our efforts to recover throughout this past year, we found ourselves in a position in which the debt load of the company was simply too much to overcome. Our bank foreclosed on its loan which means they are taking over the company’s assets and collecting all remaining payments. As a result they have forced the company to shut down.
+طول عمر:
+2011 (نامشخص)
+سرمایه‌گذاری:
+$37M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#587
+Optiva
+Technology / Startup
+Like most other nanotech companies, Optiva took a while to get its product out. It shifted focus, its technology changed, as did the market. Its “polarizer” technology was supposed to be sold for use in wrist watch, calculator and PDA displays, but as VentureWire reports, suddenly the people who already made the displays found a glut of scrap material, which was also suitable, thus resulting in a rapid drop in market prices.
+طول عمر:
+2005 (نامشخص)
+سرمایه‌گذاری:
+$30M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#588
+Flooz.com
+Technology / Startup
+Flooz.com tried to create a branded online currency, promoted by celebrity spokesperson Whoopi Goldberg, that shoppers would buy and spend at partner stores. Adoption was weak because it solved no real problem over credit cards, and the company was hit by a major credit-card fraud ring laundering money through Flooz. Cash ran out and it went bankrupt in 2001.
+طول عمر:
+2001 (نامشخص)
+سرمایه‌گذاری:
+$51.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#589
+AdBrite
+SaaS / Software / AI
+Despite claiming to be the largest independent ad exchange and at one time being seen as a serious competitor to Google Adwords, it seems that they were unable to make enough money or sell the company to potential buyers.
+طول عمر:
+2013 (نامشخص)
+سرمایه‌گذاری:
+$35M
+شاخص شکست
+97%
+Management & Governance
+
+
+#590
+Microdisplay Corporation
+SaaS / Software / AI
+We knew that we were entering a mature, competitive market, and that we had a narrow window in which to succeed. We developed a TV with a unique display technology, excellent picture quality and a low cost, and we saw an opportunity. Unfortunately, the recent uncertainty in the TV industry, highlighted by particularly slow sales in May, made it virtually impossible to introduce a new type of projection TV at this time.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$33M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#591
+Cuil
+Technology / Startup
+Cuil launched in 2008 with ex-Google engineers claiming a larger index and better search than Google. But it returned poor, sometimes bizarre results, mismatched images, and stumbled at launch under heavy traffic. It never gave users a reason to switch from Google and shut down in 2010.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$33M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#592
+TrueSAN Networks
+Technology / Startup
+…a turnaround plan that founder and CEO Tom Isakovich presented to its board of directors last week failed to convince the company’s backers to stump up more cash.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$30M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#593
+Asempra Technologies
+Technology / Startup
+Why did Asempra cease trading – which, by the way, happened so fast its PR agency knew nothing of the asset sale to Bakbone? The probability is that it ran into cash flow problems in the recession and the investing VCaps were reluctant to go through another funding round. Three million dollars does not look like anywhere a worthwhile exit strategy for the three VC firms, not with $29m in the Asempra can, but it is something to pull out of the failed venture.
+طول عمر:
+2009 (نامشخص)
+سرمایه‌گذاری:
+$29M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#594
+Entellium
+Technology / Startup
+Just because you run a private company that does not have to file quarterly financial statements with the SEC does not make it okay to cook your books. The CEO and CFO of Seattle-based CRM firm Entellium found that out the hard way. They were arrested by the FBI earlier this week for inflating their revenues and then lying to their board about it. The company appears to be toast.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+$28M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#595
+Agillion
+Technology / Startup
+Agillion, which offered a Web service that helped businesses maintain vital information about their customers, filed for bankruptcy in July 2001 with about $100 in the bank. Just 15 months before, Agillion had $30 million in the bank, according to the suit. Between the product launch date, Feb. 23, 2000, and the bankruptcy filing more than a year later, Agillion had only a “few dozen subscribers” to its Web-based service, the suit claims. Their revenue was so inconsequential that management never recorded a single dollar in revenue in their internal bookkeeping,” the suit alleges. Despite the poor performance, “Agillion’s management increased their wasteful spending,” the suit states.
+طول عمر:
+2000 - 2016 (16 yrs تقریبی)
+سرمایه‌گذاری:
+$33.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#596
+Bling Nation
+Technology / Startup
+Executives at several banks said that they liked Bling Nation’s business strategy but its service ultimately suffered from a lack of merchant adoption and consumers’ unwillingness to switch from bank-issued debit cards.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$28M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#597
+NebuAd
+Technology / Startup
+The company, which has occasionally been described as the ‘US version of Phorm’, has been dying a slow death since US authorities forced the company to abandon its targeting practices with local internet service providers in September. NebuAd was sued in November 2008 by US web users, who alleged the company violated privacy rights by purchasing information about their web activity from ISPs, using the data to serve targeted ads. The company was investigated for its targeting practices, which included the purchase of detailed web history from broadband providers, including search queries and browsing habits. After being grilled in US Congress, NebuAd chief executive and founder Bob Dykes quit the company, shedding a number of staff and its PR firm in his wake, including staff from its offices in the UK.
+طول عمر:
+2008 (نامشخص)
+سرمایه‌گذاری:
+$31.6M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#598
+LV Sensors
+Technology / Startup
+…the company closed its doors in the spring after failing to raise a new round of capital… Though many sectors have been under pressure as venture funding is harder to get than it was a year ago, chip companies have been especially hard hit due to their high capital needs and the many years it can take to move beyond the development stage. ## Startup Failures: Total funding from $15M — $25M
+طول عمر:
+2009 (نامشخص)
+سرمایه‌گذاری:
+$27M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#599
+Pillow
+Fintech / Crypto
+As part of its reorganization efforts, Expedia Group is winding down its multifamily building short-term rental business that it began with the 2018 acquisitions of Pillow and ApartmentJet, Skift has learned. Expedia Group bought the two companies for around $54 million, and combined them, along with some staff from its Vrbo subsidiary, to create Expedia Group Multifamily solutions. Expedia rebranded the product into a suite of software tools called Flex, or Flexible Living Platform, and it was geared to help landlords attract short-term rental bookings for vacant apartments, and to enable tenants to offer up their units to guests. […] The Expedia Group spokeswoman said factors that led to the demise of its multifamily business grew out of the Covid-19 crisis, which hurt urban demand and complicated investment in supply.
+طول عمر:
+2018 - 2023 (5 yrs تقریبی)
+سرمایه‌گذاری:
+$21M
+شاخص شکست
+97%
+Fraud & Regulatory Issues
+
+
+#600
+Heygo
+Healthcare / Biotech
+The startup Heygo generated millions of dollars in income for tour guides during a time when their normal business was nonexistent. The London-based virtual experiences platform was founded in 2020 as a way to help people ‘travel’ when the world was shut down during the pandemic. Customers could attend virtual tours led by local tour guides… …After nearly three years in operation, Heygo shut down permanently this week. ‘The metrics changed post-Covid. There just wasn’t a big enough market for the amount of money that we raised,’ said John Tertan, who graduated from Oxford University in 2015 and then worked for a law firm for four years before founding Heygo.
+طول عمر:
+2015 - 2023 (8 yrs تقریبی)
+سرمایه‌گذاری:
+$21M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#601
+Daylight
+Fintech / Payments
+Daylight, an LGBTQ+ banking platform, is shutting down. Its operations will cease on June 30, according to embattled co-founder and CEO Rob Curtis. The announcement comes months after NY Magazine published an explosive feature on the neobank…NY Mag’s piece detailed a lawsuit brought on by three former employees as well as alleged fabrications and inappropriate behavior on the part of Curtis.
+طول عمر:
+2023 (نامشخص)
+سرمایه‌گذاری:
+$20M
+شاخص شکست
+97%
+Management & Governance
+
+
+#602
+Cudoni
+Technology / Startup
+Back in January, Cudoni, a startup based in London, added eBay to its roster of investors with a $9 million fundraise. Today, the company no longer exists. The company stated that the present economic situation has made it unfeasible to continue its operations. The move is noteworthy as the startup focused in a thriving category in retail — resale.
+طول عمر:
+2023 (نامشخص)
+سرمایه‌گذاری:
+$18M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#603
+Karakuri
+FoodTech / Delivery
+Karakuri, a startup that made a robotic food kiosk that assembles various cold and hot ingredients into prepared meals, is shutting down, according to founder Barney Wragg. In a post on Linkedin, Wragg cited the pandemic and the challenging fundraising environment as the reason for the news and included a link to a Google Sheet with Karakuri employees who Wragg said it was ‘incumbent’ on him to assist in finding new roles.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$18M
+شاخص شکست
+97%
+Management & Governance
+
+
+#604
+Underground Cellar
+SaaS / Software / AI
+Underground Cellar, a San Francisco-based company, could easily be a wine enthusiast’s dream: for free, customers could buy and store up to 500 bottles in the company’s ‘temperature-controlled CloudCellar’ in Napa Valley and ship them (also for free) whenever they wanted… …In late April, the wine company abruptly halted operations, and, a few days later, filed for Chapter 7 bankruptcy, The San Francisco Chronicle reported. Underground Cellar owes nearly $25 million worth of wine and other debts, and some former customers are now questioning whether the CloudCellar even exists.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$16M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#605
+L1ght
+Media / Social / Gaming
+Israeli startup L1ght, which developed technology to identify and analyze harmful online content, is shutting down. The company, founded by Ron Porat and Zohar Levkovitz, has notified all 22 of its employees that they are being laid off… …According to the company, it was ultimately forced to shut down after a deal to be acquired fell through.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$15M
+شاخص شکست
+80%
+Technical / Product Issues
+
+
+#606
+Recycling Technologies
+CleanTech / Energy
+Recycling Technologies, a plastics recycling technology provider based in the United Kingdom, has announced that it has ceased operations… According to a statement from Recycling Technologies, the company has entered into administration since it was unable to secure investments necessary to advance its technology.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$16M
+شاخص شکست
+80%
+Technical / Product Issues
+
+
+#607
+Mamsy
+SaaS / Software / AI
+Online e-commerce platforms, KupiVIP and Mamsy, both managed by parent company, Private Trade, have announced they will close after 13 years in operation. KupiVIP was established in 2008 and focussed on discount sales. The company had over 3,000 suppliers from Russia and abroad. According to Fashion Consulting Group, the platform’s turnover decreased by 10 percent year-on-year in 2020, to 4.5 billion roubles ($61.7 million). Mamsy specialised in mid-price products for children and women. Its revenue last year, according to SPARK-Interfax, amounted to 671.6 million roubles ($9.2 million), representing a year-on-year loss of 167.9 million roubles ($2.3 million).
+طول عمر:
+2008 - 2020 (12 yrs تقریبی)
+سرمایه‌گذاری:
+$15M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#608
+Automatic
+Technology / Startup
+Just like many other companies in the United States, the COVID-19 pandemic has adversely impacted our business,” the company said in a statement. “With fewer consumers purchasing and leasing vehicles and drivers on the road, we unfortunately do not see a path forward for our business. These are unprecedented times, and with so much uncertainty ahead, we have made the difficult decision to discontinue the Automatic connected car product, service and platform.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$24M
+شاخص شکست
+97%
+Management & Governance
+
+
+#609
+FST Biometrics
+SaaS / Software / AI
+It came with some of the best credentials a security technology company could have, as well as $23 million in venture capital behind it, but FST Biometrics is closing up shop after 11 years. A source at the company who asked not to be identified said Tuesday that the board voted June 14 to cease operations. “Management is now making an effort to meet its obligations to customers and minimize the harm to its employees,” the source said.
+طول عمر:
+2018 (نامشخص)
+سرمایه‌گذاری:
+$20M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#610
+Village Voice Media
+Media / Social / Gaming
+On the Friday before Labor Day, Village Voice staffers found out the paper was being shut down. According to Gothamist, the paper’s owner, Peter Barbey, told the staff in a phone call that “due to the business realities, we’re going to stop publishing Village Voice new material.” Some staff members are being retained to “wind things down” and migrate the Voice’s archive online. The rest have been let go.
+طول عمر:
+2018 (نامشخص)
+سرمایه‌گذاری:
+$17.9M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#611
+Raze Therapeutics
+SaaS / Software / AI
+Seeded in part by Atlas Venture, the company was focused on cancer anabolic metabolism, specifically mitochondrial one-carbon energetics. The space has emerged recently as a major driver of cancer proliferation, survival, and biomass accumulation. But apparently the tech was too tough to continue. Although it made intriguing progress, the underlying cancer metabolism biology was too complicated to warrant further investment,” wrote Bruce Booth, partner at Atlas, in a recent portfolio update.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$24M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#612
+CastAR
+Technology / Startup
+CastAR, the augmented reality start-up co-created by two former Valve employees, laid off its staff, shut down internal studio Eat Sleep Play and closed its doors today, according to now former employees… Jeri Ellsworth and Rick Johnson launched the company in 2013 after leaving Valve with permission to take their AR research with them. The company, which had plans to launch its self-contained AR glasses later this year, was backed by finance group Playground. But, according to former employees, Playground Global declined to invest any more in the company last week. The company also failed to land any Series B funding from other potential investors.
+طول عمر:
+2013 - 2017 (4 yrs تقریبی)
+سرمایه‌گذاری:
+$15M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#613
+Jinn
+SaaS / Software / AI
+Jinn was primarily a food delivery app that connected hungry customers with restaurants and self-employed couriers. But unlike rival services such as Deliveroo and UberEATS, Jinn allowed customers to place custom orders for virtually any shop in a city. That meant it was able to offer on-demand McDonald’s deliveries long before the fast food officially announced a partnership with UberEATS. A source with knowledge of Jinn’s current situation said that the company met with three rival food delivery businesses on October 13 [2017] about a potential acquisition deal. But by 5 p.m. on October 16, this source said that a deal looked unlikely, and they said that a decision to close Jinn was made on October 17.
+طول عمر:
+2017 (نامشخص)
+سرمایه‌گذاری:
+نامشخص
+شاخص شکست
+80%
+Multiple Factors
+
+
+#614
+Atlas Informatics
+Technology / Startup
+Atlas Informatics, whose Atlas Recall promised an intuitive and powerful way to index all your information across many services, is shutting down less than a year after launch. There will be no long sunset period: all user data will be deleted next Friday, [October] 27th [2017].
+طول عمر:
+2017 (نامشخص)
+سرمایه‌گذاری:
+$20.7M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#615
+Procket Networks
+Technology / Startup
+Since introducing its products more than a year ago, Procket has only a handful of customers, mostly including universities and small carriers. Its most prominent customer is NTT in Japan, which also uses Cisco and Juniper gear. It has yet to announce a major deal in the North American market.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$20M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#616
+Daptiv
+Technology / Startup
+Everyone thought there was an opportunity to take this company and jump it up, and operate it at a higher level and grow in a different direction,” Franklin said at the time. “We made a good attempt at that and ultimately just weren’t able to raise money around that opportunity.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$24.7M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#617
+RatePoint
+Technology / Startup
+RatePoint was venture capital funded. According to a press release back in 2009, the company reported at the time that it had “closed a $10 million Series B round of funding led by Castile Ventures of Waltham, Mass., with participation by existing investors .406 Ventures and Prism VentureWorks.” Which goes to show … venture funding is no guarantee of business success.
+طول عمر:
+2009 - 2012 (3 yrs تقریبی)
+سرمایه‌گذاری:
+$24.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#618
+BuyWithMe
+SaaS / Software / AI
+The capital markets willingness to invest in daily deal businesses has dried up. Our game plan was to raise a significant amount of capital to push this comprehensive service offering deeply into markets and, as a result, change the basis of competition in the daily deal space. We were a little late.
+طول عمر:
+2011 (نامشخص)
+سرمایه‌گذاری:
+$21.5M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#619
+BusRadio
+Technology / Startup
+The FCC study found that BusRadio, the only commercial broadcaster on school buses, had disguised commercial content as editorial and exposed kids to more commercial content than the four-minutes-per-hour limit it promised parents… “What happened was they were unable to get into schools because of parental protests at the local level. Without a really large audience, they were unable to attract significant advertisers.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$20.1M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#620
+Atrato
+Technology / Startup
+A big problem at Atrato has been sales. The boxes simply didn’t sell in large enough numbers… The new executives couldn’t turn the company around on their own, and by June of this year, it was looking for new funding and what was called a rebirth. Up to a quarter of its staff were laid off, and the company’s strategy changed so that Atrato focussed more on software than hardware. It also intended to promote OEM sales more. We understand just 18 employees were left in July 2010.
+طول عمر:
+2010 (نامشخص)
+سرمایه‌گذاری:
+$18M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#621
+Moblyng
+SaaS / Software / AI
+We did not monetize enough to stay in business,” said [Stewart] Putney… Putney said the games have gotten traction, but too late. The company launched its HTML5 games on the Facebook HTML5 mobile platform in mid-October, but the audience started growing in December when time and cash had run out.
+طول عمر:
+2012 (نامشخص)
+سرمایه‌گذاری:
+$17.4M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#622
+Alice.com
+SaaS / Software / AI
+Nacho Somalo, Alice.com’s president for the European Market, said that Alice.es closed due to lack of funding opportunities. Alice.com tried to reorganize its structure, and used the few funding yet available in their Spanish subsidiary to help their growth in the US market. But it seems they have not been able to do so.
+طول عمر:
+2017 (نامشخص)
+سرمایه‌گذاری:
+$13.9M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#623
+LucidEra
+SaaS / Software / AI
+According to Kaplan, a LucidEra representative he spoke with characterized the roots of the company, founded in 2005, as being firmly in the “SaaS 1.0” era. This group of technology innovators had to “build a lot of their own architecture, delivery capabilities, and software-development resources,” Kaplan explains. Companies starting today can leverage platform-as-a-service capabilities and computing power from vendors such as Salesforce.com and Amazon.com, greatly reducing costly upfront capital investments and ongoing operational expenses. “[LucidEra] got caught with the heavy overhead,” Kaplan says, “and they weren’t going to continue to invest.
+طول عمر:
+2005 (نامشخص)
+سرمایه‌گذاری:
+$15.6M
+شاخص شکست
+80%
+Multiple Factors
+
+
+#624
+Appiterate
+Marketing
+Appiterate was a mobile marketing company that was acquired by Flipkart, India’s largest e-commerce company. It was closed 2 years after launching.
+طول عمر:
+2013 - 2015 (2 yrs)
+سرمایه‌گذاری:
+< $1M
+شاخص شکست
+70%
+Acquisition Flu
+
+
+#625
+Argyle Social
+Marketing
+The Argyle Social was a social media marketing tool. The leading social media platforms change their APIs every time, which led to their shut down.
+طول عمر:
+2010 - 2014 (4 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+75%
+Competition
+
+
+#626
+BitPass
+Finances
+Bitpass was a company that gave people a platform to make micropayments online. The main reason for its closure was competition, even after raising $12M.
+طول عمر:
+2002 - 2007 (5 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+75%
+Competition
+
+
+#627
+Brisk
+Marketing
+Brisk was a sales and marketing platform founded in 2012. They started to offer customization to paying customers, but this became costly in the long term.
+طول عمر:
+2012 - 2016 (4 yrs)
+سرمایه‌گذاری:
+< $1M
+شاخص شکست
+80%
+Lack of Focus
+
+
+#628
+Crowdmix
+Music
+Crowdmix was a music streaming platform where people could listen and talk about their favorite bands. They spent £14M before having a working product.
+طول عمر:
+2013 - 2016 (3 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+90%
+Mismanagement of Funds
+
+
+#629
+DotCloud
+Software & Hardware
+dotCloud was a PaaS for developers that enabled them to host, assemble and run their applications. They could not sustain operation costs by themselves.
+طول عمر:
+2008 - 2016 (8 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+90%
+Mismanagement of Funds
+
+
+#630
+FoundationDB
+Software & Hardware
+FoundationDB is a NoSQL scalable layered database that worked faster and needed less hardware than other services of its kind. Apple acquired it in 2015.
+طول عمر:
+2009 - 2015 (6 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+70%
+Acquisition Flu
+
+
+#631
+Fuhu
+Software & Hardware
+Fuhu was a seller of cloud-served software. After reaching Top 1 on Inc 500, the company amassed an enormous amount of debt and had a very high burn rate.
+طول عمر:
+2006 - 2015 (9 yrs)
+سرمایه‌گذاری:
+> $50M
+شاخص شکست
+90%
+Mismanagement of Funds
+
+
+#632
+Kno
+Education
+Kno introduced double paneled e-textbooks. Despite raising $80M, the company saw its chances of scaling up diminish once Apple introduced its iconic iPad.
+طول عمر:
+2009 - 2013 (4 yrs)
+سرمایه‌گذاری:
+> $50M
+شاخص شکست
+75%
+Competition
+
+
+#633
+LayerVault
+Design
+LayerVault helped you store, track, review, and deliver design work. However, they were unable to secure additional capital to sustain their services.
+طول عمر:
+2011 - 2014 (3 yrs)
+سرمایه‌گذاری:
+< $1M
+شاخص شکست
+90%
+Lack of Funds
+
+
+#634
+Mailbox
+Productivity
+Mailbox made your inbox more manageable and efficient. They didn't find a way to monetize the app. After being acquired by Dropbox, Mailbox shut down.
+طول عمر:
+2011 - 2015 (4 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+80%
+Bad Business Model
+
+
+#635
+MatterFab
+Software & Hardware
+MatterFab had the goal of making metal-based manufacturing affordable. However, the business never found a profitable business model and pricing strategy.
+طول عمر:
+2013 - 2019 (6 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+80%
+Bad Business Model
+
+
+#636
+Moped
+Social Media
+Moped was a free social app. It had not enough entertaining and fast-growing content that could attract a broad mass of users. It closed after 16 years.
+طول عمر:
+1998 - 2014 (16 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+85%
+No Market Need
+
+
+#637
+MySpace
+Social Media
+MySpace became the most popular social networking site before Facebook. After competing with them, they decided to repurpose it as a platform for artists.
+طول عمر:
+از 2003
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+80%
+Multiple Reasons
+
+
+#638
+Netscape
+Productivity
+Netscape was one of the most significant internet applications in history. Despite its early success, they couldn't beat Microsoft's Internet Explorer.
+طول عمر:
+1994 - 2008 (14 yrs)
+سرمایه‌گذاری:
+No Data
+شاخص شکست
+80%
+Poor Product
+
+
+#639
+OpTier
+Analytics
+OpTier provided customers with a business transaction monitoring platform. Little market share, revenue, and investment led to OpTier's failure.
+طول عمر:
+2002 - 2014 (12 yrs)
+سرمایه‌گذاری:
+> $50M
+شاخص شکست
+84%
+Lack of PMF
+
+
+#640
+Parse
+Software & Hardware
+Parse offered a platform for mobile app devs with tools to let them build, run and test applications. Facebook bought Parse and shut it down in 2017.
+طول عمر:
+2011 - 2016 (5 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+70%
+Acquisition Flu
+
+
+#641
+Pixate
+Design
+Pixate wanted to make prototyping and designing apps more accessible and effortless. It was acquired by Google in 2015, and after a year, it was shut down.
+طول عمر:
+2012 - 2016 (4 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+70%
+Acquisition Flu
+
+
+#642
+PoliMobile
+Marketing
+PoliMobile provided political campaigns with a strategic way to reach their supporters. No one wanted to pay for such a service and they had to shut down.
+طول عمر:
+2011 - 2015 (4 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#643
+Radar Radio
+Entertainment
+Radar Radio, a hub for emerging music talent online, ceased operations amidst a debt of £3.6M. Here's their story.
+طول عمر:
+2008 - 2018 (10 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+90%
+Mismanagement of Funds
+
+
+#644
+Rafter
+Education
+Rafter was a course material provider for colleges. They had lots of competition and had to deal with logistical, financial, and market challenges.
+طول عمر:
+2006 - 2016 (10 yrs)
+سرمایه‌گذاری:
+> $50M
+شاخص شکست
+75%
+Competition
+
+
+#645
+Reach.ly
+Analytics
+Reach.ly was an analytics tool for e-commerce sites providing customer behavior patterns. Lack of proper market feedback made the company shut down.
+طول عمر:
+2011 - 2015 (4 yrs)
+سرمایه‌گذاری:
+< $1M
+شاخص شکست
+80%
+Multiple Reasons
+
+
+#646
+RethinkDB
+Software & Hardware
+RethinkDB is a distributed and scalable NoSQL database. Choosing the wrong market was mentioned by the founder as one of their major mistakes.
+طول عمر:
+2009 - 2016 (7 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+84%
+Lack of PMF
+
+
+#647
+SchoolGennie
+Education
+SchoolGennie provided solutions that saved time, reduced costs, and helped make better decisions on schools. But they didn’t test their product-market fit.
+طول عمر:
+2013 - 2014 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Lack of Experience
+
+
+#648
+Shipbeat
+e-Commerce
+Shipbeat was an API to help e-commerces. When Shipbeat expanded its logistic services in other market areas, they had some big difficulties and shut down.
+طول عمر:
+2014 - 2016 (2 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+80%
+Multiple Reasons
+
+
+#649
+Shipitwise
+Transportation
+ShipItWise was a way of booking shipping services. However, the transportation companies involved weren’t eager on jumping on this new technology.
+طول عمر:
+2016 - 2019 (3 yrs)
+سرمایه‌گذاری:
+< $1M
+شاخص شکست
+85%
+No Market Need
+
+
+#650
+Skully
+Transportation
+Skully was a helmet targetting motorcycle riders. They had to close shops due to no fundings and couldn't complete the production of the pre-orders.
+طول عمر:
+2013 - 2016 (3 yrs)
+سرمایه‌گذاری:
+$10M-$50M
+شاخص شکست
+90%
+Mismanagement of Funds
+
+
+#651
+Sunrise
+Productivity
+Sunrise was a calendar app for mobile and desktop. They had good reviews from users, but calendars are hard to monetize and they have a low entry barrier.
+طول عمر:
+2012 - 2016 (4 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+80%
+Bad Business Model
+
+
+#652
+Transpose
+Productivity
+Transpose was a comprehensive information management platform. Operated for two years before shutting down due to the inability to generate enough revenue.
+طول عمر:
+2015 - 2015 (0 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+80%
+Bad Business Model
+
+
+#653
+Verelo
+Analytics
+Verelo was a Canadian startup that offered web monitoring services from multiple locations. Not enough traction made the company shut down in 2012.
+طول عمر:
+2012 - 2012 (0 yrs)
+سرمایه‌گذاری:
+No Data
+شاخص شکست
+90%
+Lack of Funds
+
+
+#654
+Zoomo
+Transportation
+Zoomo's goal was to build trust in the Indian used cars market. The buy-and-sell vehicle market was relatively young in India and decided to shut down.
+طول عمر:
+2014 - 2016 (2 yrs)
+سرمایه‌گذاری:
+$1M-$10M
+شاخص شکست
+80%
+Bad Business Model
+
+
+#655
+101 Studios
+Education
+101 Studios was a producer of video games that taught users things while they played. They went with a “business to professor” business model, but despite professors like the idea, they wouldn’t implement it in their classes. The startup could never reach product-market fit and shut down months later.
+طول عمر:
+نامشخص
+سرمایه‌گذاری:
+$0
+شاخص شکست
+84%
+Bad Market Fit
+
+
+#656
+ABBY
+Analytics
+ABBY was a documentation service for A/B tests. To make such a service successful, Andy would have needed to educate the users, and that was not possible.
+طول عمر:
+2015 - 2016 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#657
+Addressbin
+Software & Hardware
+Addressbin was an easy way to collect email addresses. Bad marketing and big competitors where the problems that dug its grave.
+طول عمر:
+2013 - 2018 (5 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Bad Marketing
+
+
+#658
+AskTina
+Software & Hardware
+AskTina was a live video chat widget for experts to install on their blogs. They did not spend enough time validating the idea through customer interviews before investing in building the MVP.
+طول عمر:
+2016 - 2017 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+84%
+Bad Market Fit
+
+
+#659
+Bediwin Information Services
+Software & Hardware
+James is a IT professional who decided to start a business on a “IT-manager-for-hire” type model. He built the company with really few resources and tools and started looking for clients. At peak, he was earning £2,500, but after some years, he had to shut down as he realized his business model was completely broken.
+طول عمر:
+2011 - 2014 (3 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Bad Business Model
+
+
+#660
+BeehiveID
+Software & Hardware
+BeehiveID was a startup on the dating market, that identified online accounts created for fraudulent use. Techstars and RightSide Capital decided to invest $70K on their business. However, after some months BeehiveID closed their doors. Being too dependent on Facebook data killed their startup.
+طول عمر:
+2013 - 2015 (2 yrs)
+سرمایه‌گذاری:
+< $100K
+شاخص شکست
+80%
+Dependence on Others
+
+
+#661
+Birdy
+Finances
+The Birdy was a simple app to track spending habits. Corey never figured out how to monetize it which also caused scaling issues.
+طول عمر:
+2009 - 2015 (6 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+90%
+Lack of Funds
+
+
+#662
+Boston Apartment Hub
+Software & Hardware
+Boston Apartment Hub was an apartment listing site for the Boston area. The idea was probably too ahead of its time.
+طول عمر:
+2006 - 2007 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+84%
+Bad Market Fit
+
+
+#663
+Botnim
+Food & Beverage
+Botnim was a web application that provided near dishes and their nutritional values. Read now the story of the 2 co-founders with a failed startup.
+طول عمر:
+2017 - 2017 (0 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+84%
+Bad Market Fit
+
+
+#664
+Cam.ly
+Software & Hardware
+Dane built Cam.ly, a wifi camera that would stream and store video in the cloud. They competed with Google Nest's predecessor but failed to build a polished product before convincing investors to fund it.
+طول عمر:
+2009 - 2010 (1 yrs)
+سرمایه‌گذاری:
+< $100K
+شاخص شکست
+80%
+Poor Product
+
+
+#665
+Delite
+Software & Hardware
+Delite was a SaaS platform for B2B wholesale orders. It didn’t satisfy any necessity of customers. Just that thing in life you keep putting off.
+طول عمر:
+2016 - 2017 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#666
+Eloquis
+Software & Hardware
+Eloquis was all about bringing personalization to mobile apps. The problem? Early in the market and targeted the wrong customer segment.
+طول عمر:
+2010 - 2011 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#667
+Eventloot
+Software & Hardware
+Justin Anyanwu is a maker who a few years ago built Eventloot, a SaaS platform for wedding planning professionals. He hired some designers and developers and got the SaaS working. But after a few months of running Facebook Ads and sending cold emails, they decided to shut it down. They hadn’t built a platform that solved the problems wedding planners had.
+طول عمر:
+2014 - 2017 (3 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#668
+ExploreVR
+Software & Hardware
+Andrey Norin is a budding entrepreneur, responsible for all the successes and the failures of ExploreVR. This was a directory site focused 100% on virtual reality. He started it in 2017 and shut down a few months later. His lack of experience in creating a business from scratch was the main cause of failure.
+طول عمر:
+2017 - 2017 (0 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Lack of Experience
+
+
+#669
+Fantastic House Buyers
+Services
+Fantastic House Buyers was an online service designed to improve the expensive and stressful experience of buying a house in the UK. Alan built it himself and start trying a lot of different marketing strategies. However, after a few months, he realized he had built something that no-one wanted.
+طول عمر:
+2017 - 2018 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#670
+Flux
+Software & Hardware
+Flux was a modular multi messaging client. They raised a small angel round of 70K € and invested another 15K €. A combination of many issues led to their failure.
+طول عمر:
+2011 - 2016 (5 yrs)
+سرمایه‌گذاری:
+< $100K
+شاخص شکست
+86%
+Bad Management
+
+
+#671
+Graphite Docs
+Software & Hardware
+Justin Hunter had the courage to challenge Google Docs, all because he was scared of losing all his writing saved in the cloud. So he created Graphite Docs, a privacy-focused alternative to Google Docs powered by blockchain, that assured users that their saved files were indeed safe. And the effort paid off; he started gaining traction from individual users. However, he decided to focus on the B2B
+طول عمر:
+2017 - 2020 (3 yrs)
+سرمایه‌گذاری:
+$100K-$500K
+شاخص شکست
+80%
+Bad Business Model
+
+
+#672
+Gulp
+Software & Hardware
+Jeff Orr and two friends in college started Gulp- an app to pay bar cover. Gulp was meant to replace the inconvenience of having to go an ATM to pay for a bar’s cover fee, but with the lack of affiliate marketing knowledge and some bad unit economics, the friends quickly ran out of money.
+طول عمر:
+2014 - 2015 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Bad Business Model
+
+
+#673
+Gymlisted
+Software & Hardware
+Gymlisted was a website for finding the right private gym. Every day, Tom would go home from his day job and code up features for Gymlisted until midnight. Once launched, they started with their marketing efforts. But they soon realized there was pretty much no demand for what they were offering.
+طول عمر:
+2017 - 2018 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+85%
+No Market Need
+
+
+#674
+Habitual
+Productivity
+Holger Sindbaek is the founder of Habitual, a habit-tracking app that was initially created since Holger could not find an app that could suit his habit-tracking needs after reading Atomic Habits book. With other successful apps under his belt like a Solitaire card game played by 3M people per month, it seems like he has the knack of making startups fly. So what went wrong with Habitual? Discover
+طول عمر:
+2019 - 2021 (2 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Bad Marketing
+
+
+#675
+Haptly
+Software & Hardware
+In 2016, Nelson entered the drone business when trying to develop a solution for farmers who aimed to monitor their grass growth. Things were progressing well and they soon applied for a startup accelerator who provided him and his co-founder $20,000. But after working 10 months on the project, they couldn’t find a way to technically build the product and decided to shut down.
+طول عمر:
+2016 - 2016 (0 yrs)
+سرمایه‌گذاری:
+< $100K
+شاخص شکست
+80%
+Lack of Experience
+
+
+#676
+Hashtag Pirate
+Social Media
+Nicolas is an IT support engineer who built Hashtag Pirate, an Instagram hashtag search engine. He hired a freelance developer and, once launched, he put a big focus on SEO. Things were going pretty well. However, in 2015 Instagram announced changes to its API and so Hashtag Pirates stopped working.
+طول عمر:
+2015 - 2016 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Dependence on Others
+
+
+#677
+Hello Tyro
+Software & Hardware
+Pierre co-founded Hello Tyro, a platform matching students with internship opportunities in Belgian startups. They raised €250k and reached €4k MRR at their top but didn't find Product-Market Fit. They ran out of cash and filed for bankruptcy in 2020.
+طول عمر:
+2017 - 2020 (3 yrs)
+سرمایه‌گذاری:
+$100K-$500K
+شاخص شکست
+85%
+No Market Need
+
+
+#678
+HitroNaSplet
+Software & Hardware
+HitroNaSplet was a hosting reseller company. They invested a lot of time in SEO and achieved the first page in Google, which let them start making some monthly revenue. However, after some months, they realized it didn't generate enough revenue to be worth the time invested, so they closed their doors.
+طول عمر:
+2008 - 2010 (2 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+90%
+Lack of Funds
+
+
+#679
+Hot Barber
+Software & Hardware
+Hot Barber was a website that let hair stylists set up profiles and customers browse portfolios, but the founders couldn't find a way to monetize it!
+طول عمر:
+2017 - 2018 (1 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Bad Business Model
+
+
+#680
+Ink
+Software & Hardware
+Andrew Askins, in partner with two of his best friends, started his company Krit in 2014. In 2015 they launched Ink, a tool that let freelancers create contracts and get them signed online. They got a couple thousand free users, but ultimately got burnt out before they could make the business model work. Now, they have been able to overcome this failure and build a successful consulting business.
+طول عمر:
+2015 - 2015 (0 yrs)
+سرمایه‌گذاری:
+$0
+شاخص شکست
+80%
+Lack of Focus
+
