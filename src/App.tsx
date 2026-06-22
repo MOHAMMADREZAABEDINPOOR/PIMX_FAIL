@@ -33,6 +33,7 @@ import {
 import { SEED_STARTUPS, TECHNICAL_BLUEPRINTS, TRANSLATIONS } from "./data";
 import { Startup, AIAnalysisResult } from "./types";
 import { PimxAdminDashboard } from "./components/PimxAdminDashboard";
+import LoadingScreen from "./components/LoadingScreen";
 
 function getLocalizedBlueprint(bp: any, locale: string) {
   const l = locale || "en";
@@ -1910,6 +1911,21 @@ export default function App() {
     }
   }, [theme]);
   
+  const [isInitialLoading, setIsInitialLoading] = useState<boolean>(true);
+  
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsInitialLoading(false);
+    }, 1200);
+    
+    if (!isLoadingDatabase) {
+      setIsInitialLoading(false);
+      clearTimeout(timer);
+    }
+    
+    return () => clearTimeout(timer);
+  }, [isLoadingDatabase]);
+  
   // App views
   const [activeTab, setActiveTab] = useState<"database" | "blueprints">("database");
   
@@ -2353,6 +2369,18 @@ export default function App() {
     );
   }
 
+  if (isInitialLoading) {
+    return (
+      <LoadingScreen 
+        theme={theme} 
+        t={{ 
+          loadingText: t.loadingText || "Loading the graveyard...", 
+          loadingSubtext: t.loadingSubtext || "Bringing failed ideas back to life" 
+        }} 
+      />
+    );
+  }
+  
   return (
     <div className={`min-h-screen font-sans antialiased transition-colors duration-300 ${themeStyles.bg}`} dir={isRtl ? "rtl" : "ltr"}>
       
