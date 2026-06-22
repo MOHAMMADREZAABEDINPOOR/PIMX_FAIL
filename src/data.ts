@@ -10036,9 +10036,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Precisely What Went Wrong (Autopsy Report)",
     funding: "Funding",
     closeReport: "Close Report",
-    selectLanguage: "Select Region / Locale",
-    loadingText: "Loading the graveyard...",
-    loadingSubtext: "Bringing failed ideas back to life"
+    selectLanguage: "Select Region / Locale"
   },
   fa: {
     title: "PIMXFAIL",
@@ -10121,9 +10119,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "دلیل شکست و کالبدشکافی مالی عملیاتی",
     funding: "سرمایه جذب‌شده",
     closeReport: "بستن گزارش",
-    selectLanguage: "انتخاب زبان",
-    loadingText: "در حال بارگذاری قبرستان...",
-    loadingSubtext: "ایده‌های مرده را دوباره زنده می‌کنیم"
+    selectLanguage: "انتخاب زبان"
   },
   de: {
     title: "PIMXFAIL",
@@ -10206,9 +10202,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Was genau schief gelaufen ist (Autopsiebericht)",
     funding: "Finanzierung",
     closeReport: "Bericht schließen",
-    selectLanguage: "Region / Sprache wählen",
-    loadingText: "Lade den Friedhof...",
-    loadingSubtext: "Gescheiterte Ideen wieder zum Leben erwecken"
+    selectLanguage: "Region / Sprache wählen"
   },
   zh: {
     title: "PIMXFAIL",
@@ -10291,9 +10285,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "具体折戟原因（诊断书）",
     funding: "融资规模",
     closeReport: "关闭报告",
-    selectLanguage: "选择地区/语言",
-    loadingText: "正在加载墓地...",
-    loadingSubtext: "让失败的想法重获新生"
+    selectLanguage: "选择地区/语言"
   },
   es: {
     title: "PIMXFAIL",
@@ -10376,9 +10368,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Qué salió mal de manera precisa (Informe de autopsia)",
     funding: "Financiamiento",
     closeReport: "Cerrar Informe",
-    selectLanguage: "Seleccionar Región / Idioma",
-    loadingText: "Cargando el cementerio...",
-    loadingSubtext: "Reviviendo ideas que fallaron"
+    selectLanguage: "Seleccionar Región / Idioma"
   },
   fr: {
     title: "PIMXFAIL",
@@ -10461,9 +10451,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Ce qui s'est passé précisément (Rapport d'autopsie)",
     funding: "Financement",
     closeReport: "Fermer le Rapport",
-    selectLanguage: "Sélectionner Région / Langue",
-    loadingText: "Chargement du cimetière...",
-    loadingSubtext: "Ressusciter les idées mortes"
+    selectLanguage: "Sélectionner Région / Langue"
   },
   ar: {
     title: "PIMXFAIL",
@@ -10546,9 +10534,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "تفاصيل الانهيار الحقيقي (تقرير التشريح)",
     funding: "التمويل",
     closeReport: "إغلاق التقرير",
-    selectLanguage: "اختر اللغة / المنطقة",
-    loadingText: "جاري تحميل المقبرة...",
-    loadingSubtext: "إعادة إحياء الأفكار الميتة"
+    selectLanguage: "اختر اللغة / المنطقة"
   },
   it: {
     title: "PIMXFAIL",
@@ -10631,9 +10617,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Cosa è andato storto esattamente (Rapporto autoptico)",
     funding: "Finanziamenti",
     closeReport: "Chiudi Rapporto",
-    selectLanguage: "Seleziona Regione / Lingua",
-    loadingText: "Caricamento del cimitero...",
-    loadingSubtext: "Riavviare le idee morte"
+    selectLanguage: "Seleziona Regione / Lingua"
   },
   ru: {
     title: "PIMXFAIL",
@@ -10716,9 +10700,7 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Что именно пошло не так (Аналитический отчет)",
     funding: "Венчурные фонды",
     closeReport: "Закрыть Отчет",
-    selectLanguage: "Выбрать регион и язык",
-    loadingText: "Загрузка кладбища...",
-    loadingSubtext: "Возрождение неудавшихся идей"
+    selectLanguage: "Выбрать регион и язык"
   },
   el: {
     title: "PIMXFAIL",
@@ -10801,8 +10783,6 @@ export const TRANSLATIONS: Record<string, Record<string, string>> = {
     preciselyWhatWentWrong: "Τι Ακριβώς Πήγε Στραβά (Αναφορά Νεκροψίας)",
     funding: "Επένδυση που Ελήφθη",
     closeReport: "Κλείσιμο Αναφοράς",
-    selectLanguage: "Επιλογή Περιοχής / Γλώσσας",
-    loadingText: "Φόρτωση νεκροταφείου...",
-    loadingSubtext: "Αναζωογονώντας τις αποτυχημένες ιδέες"
+    selectLanguage: "Επιλογή Περιοχής / Γλώσσας"
   }
 };
