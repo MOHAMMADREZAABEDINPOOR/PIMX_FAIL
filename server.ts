@@ -37,6 +37,26 @@ async function startServer() {
     res.json({ status: "healthy", timestamp: new Date().toISOString() });
   });
 
+  // In-memory storage for local development
+  let visitLogs: any[] = [];
+
+  // Record a visit
+  app.post("/api/visits", express.json(), (req, res) => {
+    const visit = {
+      ...req.body,
+      timestamp: new Date().toISOString(),
+      location: req.body.location || "Tehran, Iran"
+    };
+    visitLogs.unshift(visit);
+    visitLogs = visitLogs.slice(0, 1000);
+    res.json({ success: true });
+  });
+
+  // Get recent visits
+  app.get("/api/visits", (req, res) => {
+    res.json(visitLogs);
+  });
+
   // Dynamic Multi-File Segmented Parser for 623 Startups with Enrichment and Deduplication
   let parsedStartupsCache: any[] = [];
   app.get("/api/startups", (req, res) => {

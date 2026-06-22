@@ -1861,8 +1861,8 @@ export default function App() {
           logList.unshift(visitPayload);
           localStorage.setItem("pimx_real_visits_log", JSON.stringify(logList.slice(0, 500)));
           
-          // Dispatch to active server pipeline for true fullstack cross-browser logging
-          await fetch("/api/track-visit", {
+          // Dispatch to Cloudflare Workers KV for true fullstack cross-browser logging
+          await fetch("/api/visits", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(visitPayload)
