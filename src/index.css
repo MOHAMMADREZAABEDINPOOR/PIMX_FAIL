@@ -7,6 +7,26 @@
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
 }
 
+html,
+body,
+#root {
+  width: 100%;
+  min-width: 0;
+  min-height: 100%;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+img,
+video,
+canvas {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Custom scrollbars for a polished SaaS look */
 ::-webkit-scrollbar {
   width: 6px;
@@ -31,4 +51,3 @@
 .animate-pulse-grave {
   animation: pulse-grave 3s infinite ease-in-out;
 }
-

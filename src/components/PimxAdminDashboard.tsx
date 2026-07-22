@@ -372,7 +372,8 @@ const TIMEFRAMES = [
   { id: "years_20", labelFa: "۲۰ ساله", labelEn: "20 Years", scale: 1.0, coordsScale: 1.0 }
 ];
 
-export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAdminDashboardProps) {
+export function PimxAdminDashboard({ onBackToApp, theme }: PimxAdminDashboardProps) {
+  const locale: string = "en";
   const at = ADMIN_TRANSLATIONS[locale] || ADMIN_TRANSLATIONS.en;
   const isAdminRtl = locale === "fa" || locale === "ar";
 
@@ -598,12 +599,12 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
   };
 
   return (
-    <div className="bg-[#0b0f19] text-gray-100 min-h-screen py-6 px-4 md:px-8 font-sans transition-all" dir={isAdminRtl ? "rtl" : "ltr"}>
+    <div className="bg-[#0b0f19] text-gray-100 min-h-screen w-full min-w-0 overflow-x-hidden py-4 min-[360px]:py-6 px-3 min-[360px]:px-4 md:px-8 font-sans transition-all" dir={isAdminRtl ? "rtl" : "ltr"}>
       
       {/* 1. LOGIN SCREEN CONTAINER */}
       {!isLoggedIn ? (
         <div className="flex flex-col items-center justify-center min-h-[85vh] py-10">
-          <div className="w-full max-w-md bg-[#111827]/90 border border-purple-900/40 p-8 rounded-2xl shadow-2xl backdrop-blur-md relative overflow-hidden">
+          <div className="w-full min-w-0 max-w-md bg-[#111827]/90 border border-purple-900/40 p-5 min-[360px]:p-8 rounded-2xl shadow-2xl backdrop-blur-md relative overflow-hidden">
             <div className="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 rounded-full blur-2xl" />
             <div className="absolute bottom-0 left-0 w-32 h-32 bg-cyan-500/10 rounded-full blur-2xl" />
 
@@ -661,7 +662,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
               </button>
             </form>
 
-            <div className="border-t border-gray-800/40 mt-6 pt-4 flex justify-between text-[10px] text-gray-500 font-mono">
+            <div className="border-t border-gray-800/40 mt-6 pt-4 flex flex-col min-[420px]:flex-row min-[420px]:justify-between gap-1 text-[10px] text-gray-500 font-mono">
               <span>PORT: 3000 Secured</span>
               <span>Client Endpoint Router</span>
             </div>
@@ -678,14 +679,14 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
       ) : (
         
         // 2. MAIN LOGGED-IN ADMIN DASHBOARD VIEW
-        <div className="max-w-7xl mx-auto space-y-6">
+        <div className="w-full min-w-0 max-w-7xl mx-auto space-y-6">
           
           {/* Header row */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-800 pb-5">
-            <div>
+            <div className="min-w-0">
               <div className="flex items-center gap-2">
                 <span className="h-2.5 w-2.5 rounded-full bg-green-500 animate-pulse" />
-                <h1 className="text-xl font-black text-white font-display uppercase tracking-wider">{at.dashHeaderTitle}</h1>
+                <h1 className="text-lg min-[360px]:text-xl font-black text-white font-display uppercase tracking-wider break-words">{at.dashHeaderTitle}</h1>
               </div>
               <p className="text-[11px] text-gray-400 mt-1">
                 {at.dashHeaderSubtitle} <span className="text-purple-400 font-mono">pimxfail.pages.dev</span>
@@ -693,13 +694,13 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
             </div>
 
             {/* Actions & Dynamic Timeline Selector */}
-            <div className="flex flex-wrap items-center gap-3">
+            <div className="flex w-full min-w-0 flex-wrap items-center gap-2 min-[360px]:gap-3 sm:w-auto">
               
               {/* Timeline dropdown container */}
-              <div className="relative">
+              <div className="relative min-w-0 flex-1 min-[420px]:flex-none">
                 <button
                   onClick={() => setIsTimeframeOpen(!isTimeframeOpen)}
-                  className="bg-[#111827] border border-gray-800 hover:border-cyan-500/50 rounded-xl px-4 py-2 text-xs text-cyan-400 font-mono font-medium flex items-center justify-between gap-2 cursor-pointer shadow-md min-w-[160px]"
+                  className="w-full min-w-0 bg-[#111827] border border-gray-800 hover:border-cyan-500/50 rounded-xl px-3 min-[360px]:px-4 py-2 text-xs text-cyan-400 font-mono font-medium flex items-center justify-between gap-2 cursor-pointer shadow-md min-[420px]:min-w-[160px]"
                 >
                   <div className="flex items-center gap-1.5">
                     <Clock className="h-3.5 w-3.5" />
@@ -709,7 +710,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
                 </button>
 
                 {isTimeframeOpen && (
-                  <div className={`absolute ${isAdminRtl ? "left-0" : "right-0"} mt-1.5 w-64 bg-[#0b0f19] border border-cyan-900/60 rounded-xl shadow-2xl z-50 overflow-hidden max-h-80 overflow-y-auto custom-scrollbar border-cyan-500/20 ${isAdminRtl ? "text-right" : "text-left"}`}>
+                  <div className={`absolute ${isAdminRtl ? "left-0" : "right-0"} mt-1.5 w-[min(16rem,calc(100vw-1.5rem))] bg-[#0b0f19] border border-cyan-900/60 rounded-xl shadow-2xl z-50 overflow-hidden max-h-80 overflow-y-auto custom-scrollbar border-cyan-500/20 ${isAdminRtl ? "text-right" : "text-left"}`}>
                     <div className="bg-cyan-950/20 p-2 text-[10px] text-gray-400 font-bold border-b border-gray-800/60">{at.selectTimeframeHeading}</div>
                     {TIMEFRAMES.map((tf) => (
                       <button
@@ -761,7 +762,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
           <div className="grid grid-cols-1 gap-4">
             
             {/* VISITS CARD */}
-            <div className="bg-[#111827]/60 border border-gray-800/70 rounded-2xl p-5 relative overflow-hidden flex flex-col justify-between">
+            <div className="bg-[#111827]/60 border border-gray-800/70 rounded-2xl p-4 min-[360px]:p-5 relative overflow-hidden flex flex-col justify-between">
               <div className="absolute top-4 left-4 h-8 w-8 rounded-xl bg-blue-950/40 border border-blue-900/40 flex items-center justify-center text-blue-400">
                 <Activity className="h-4 w-4" />
               </div>
@@ -778,8 +779,8 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
           <div className="grid grid-cols-1 gap-5">
             
             {/* VISITS TREND */}
-            <div className="bg-[#111827]/40 border border-gray-800/50 rounded-2xl p-5 space-y-4">
-              <div className="flex items-center justify-between">
+            <div className="min-w-0 bg-[#111827]/40 border border-gray-800/50 rounded-2xl p-4 min-[360px]:p-5 space-y-4">
+              <div className="flex flex-col min-[480px]:flex-row min-[480px]:items-center justify-between gap-2">
                 <div>
                   <h3 className="text-sm font-bold text-white flex items-center gap-1.5">
                     <span className="text-xs bg-blue-950 text-blue-400 px-2 py-0.5 rounded font-mono">Live Line</span>
@@ -798,7 +799,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
               </div>
 
               {/* Chart Stats */}
-              <div className="grid grid-cols-4 gap-2 text-center text-xs font-mono">
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-center text-xs font-mono">
                 <div className="bg-[#0b0f19] p-2 rounded-xl border border-gray-900">
                   <span className="block text-[9px] text-gray-500 uppercase">Min</span>
                   <span className="font-bold text-gray-200">{computedMetrics.visits.min.toLocaleString()}</span>
@@ -824,7 +825,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
           <div className="grid grid-cols-1 gap-5">
             
             {/* DEVICE SHARE */}
-            <div className="bg-[#111827]/40 border border-gray-800/50 rounded-2xl p-5 space-y-4">
+            <div className="bg-[#111827]/40 border border-gray-800/50 rounded-2xl p-4 min-[360px]:p-5 space-y-4">
               <h3 className="text-sm font-bold text-white">
                 <span>{at.deviceShareHeading}</span>
               </h3>
@@ -856,7 +857,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
           </div>
 
           {/* USER LOCATIONS BREAKDOWN */}
-          <div className="bg-[#111827]/40 border border-gray-800/50 rounded-2xl p-5">
+          <div className="bg-[#111827]/40 border border-gray-800/50 rounded-2xl p-4 min-[360px]:p-5">
             <h3 className="text-sm font-bold text-white mb-4 flex items-center gap-1.5">
               <Globe className="h-4 w-4 text-cyan-400" />
               <span>{at.userLocationsHeading}</span>
@@ -885,8 +886,8 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
 
           {" "}
           {/* REAL TELEMETRY REAL-TIME LOGS SECTION */}
-          <div className="bg-[#111827]/50 border border-cyan-900/30 rounded-2xl p-6 space-y-4">
-            <div className="flex items-center justify-between border-b border-gray-800 pb-3">
+          <div className="min-w-0 bg-[#111827]/50 border border-cyan-900/30 rounded-2xl p-4 min-[360px]:p-6 space-y-4">
+            <div className="flex flex-col min-[480px]:flex-row min-[480px]:items-center justify-between gap-2 border-b border-gray-800 pb-3">
               <div className="flex items-center gap-2">
                 <span className="relative flex h-2 w-2">
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75"></span>
@@ -902,7 +903,7 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
             </div>
 
             <div className="overflow-x-auto rounded-xl border border-gray-850 bg-gray-950/60 font-mono text-[10px]">
-              <table className="w-full text-left border-collapse" dir="ltr">
+              <table className="w-full min-w-[720px] text-left border-collapse" dir="ltr">
                 <thead>
                   <tr className="bg-gray-900 text-gray-400 border-b border-gray-850 font-bold uppercase">
                     <th className="p-3 text-center">{at.thTimestamp}</th>
@@ -959,5 +960,4 @@ export function PimxAdminDashboard({ onBackToApp, theme, locale = "en" }: PimxAd
     </div>
   );
 }
-
 

@@ -1,19 +1,6 @@
 /**
- * این اسکریپت استارتاپ‌های جدید را به data.ts اضافه می‌کند
- * هر استارتاپ به 10 زبان ترجمه می‌شود
- * 
- * زبان‌های پشتیبانی‌شده:
- * en, fa, ar, de, zh, es, fr, it, ru, tr
+ * Manual startup additions should be made in the English raw catalog format:
+ * name, industry, post-mortem, lifespan, funding, failure score, and reason.
+ * Run `npm run build-catalog` afterward to normalize and audit the full catalog.
  */
-
-import fs from 'fs';
-import path from 'path';
-
-// فقط برای نمایش - داده‌های واقعی را باید دستی وارد کنیم
-const BATCH_1_STARTUPS_EN = [
-  // استارتاپ‌های 1 تا 100 اینجا قرار می‌گیرند
-  // هر استارتاپ شامل تمام فیلدهای لازم است
-];
-
-console.log('✅ Ready to add startups manually');
-console.log('📝 Please see the data.ts file structure for reference');
+console.log("Add English records to the raw catalog, then run npm run build-catalog.");

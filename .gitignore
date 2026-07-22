@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+.tmp_wikidata/
+visits_history.json
+.responsive-chrome-profile*/

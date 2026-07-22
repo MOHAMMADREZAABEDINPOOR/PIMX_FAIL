@@ -1,0 +1,47 @@
+[
+  {
+    "id": "architecture",
+    "title": "System Architecture",
+    "category": "Edge Infrastructure",
+    "description": "English-only request flow for the React client, Express API, and static startup catalog.",
+    "icon": "Network",
+    "codeLanguage": "text",
+    "code": "Browser -> React application -> /api/startups -> English startup catalog\nBrowser -> /api/analyze -> server-side AI diagnostic\nBrowser -> /api/visits -> privacy-aware operational telemetry"
+  },
+  {
+    "id": "folder-structure",
+    "title": "Repository Structure",
+    "category": "Code Organization",
+    "description": "A compact production layout with one canonical English content source.",
+    "icon": "FolderGit2",
+    "codeLanguage": "text",
+    "code": "src/\n  App.tsx                    # English user interface\n  startups.json              # Canonical startup catalog\n  startup_research.json      # Structured Wikidata findings\n  startup_wikipedia.json     # English Wikipedia findings\n  translations.json          # English interface copy\nserver.ts                     # API and application server\nscripts/                      # Research, build, and audit tools"
+  },
+  {
+    "id": "startup-schema",
+    "title": "Startup Data Contract",
+    "category": "TypeScript Schema",
+    "description": "The normalized English record shape used by the client and server.",
+    "icon": "Database",
+    "codeLanguage": "typescript",
+    "code": "interface Startup {\n  id: string;\n  name: string;\n  slogan: string;\n  industry: string;\n  yearFounded: number | 'Not publicly documented';\n  yearFailed: number | 'Not publicly documented';\n  fundingRaised: string;\n  primaryFailureReason: string;\n  detailedFailureReason: string;\n  founders: string[];\n  country: string;\n  postMortem: string;\n  lessonsLearned: string[];\n  sourceUrls?: string[];\n}"
+  },
+  {
+    "id": "api-design",
+    "title": "API Design",
+    "category": "Express Endpoints",
+    "description": "Small English-only endpoints for catalog delivery, diagnostics, and visit telemetry.",
+    "icon": "Terminal",
+    "codeLanguage": "typescript",
+    "code": "GET  /api/health    # Service status\nGET  /api/startups  # Complete English startup catalog\nPOST /api/analyze   # English failure diagnostic\nGET  /api/visits    # Recent operational visits\nPOST /api/visits    # Record an operational visit"
+  },
+  {
+    "id": "data-audit",
+    "title": "Data Audit Pipeline",
+    "category": "Data Quality",
+    "description": "Repeatable validation for required fields, unique IDs, valid scores, and honest disclosure labels.",
+    "icon": "ShieldAlert",
+    "codeLanguage": "shell",
+    "code": "node scripts/researchStartups.cjs prepare\nnode scripts/researchStartups.cjs merge\nnode scripts/buildStartupCatalog.cjs\nnode scripts/auditStartups.cjs src/startups.json"
+  }
+]

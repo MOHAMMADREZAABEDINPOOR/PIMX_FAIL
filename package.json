@@ -10,7 +10,10 @@
     "preview": "vite preview",
     "clean": "rm -rf dist server.cjs dist/server.cjs",
     "lint": "tsc --noEmit",
-    "process-startups": "tsx scripts/processStartups.ts"
+    "audit-data": "node scripts/auditStartups.cjs src/startups.json",
+    "build-catalog": "node scripts/buildStartupCatalog.cjs",
+    "research-prepare": "node scripts/researchStartups.cjs prepare",
+    "process-startups": "node scripts/buildStartupCatalog.cjs"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
