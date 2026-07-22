@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from "react";
+import React, { useState, useEffect, useMemo, useRef } from "react";
 import { 
   Skull, 
   Search, 
@@ -25,9 +25,10 @@ import {
   Bookmark, 
   Layers, 
   Cpu, 
-  ArrowUpRight,
-  ChevronRight,
-  Sun,
+   ArrowUpRight,
+   ChevronRight,
+   ChevronDown,
+   Sun,
   Moon
 } from "lucide-react";
 import { SEED_STARTUPS, TECHNICAL_BLUEPRINTS, TRANSLATIONS } from "./data";
@@ -82,6 +83,123 @@ async function copyTextToClipboard(text: string) {
   document.body.removeChild(textArea);
 
   if (!copied) throw new Error("The report URL could not be copied.");
+}
+
+type FilterDropdownProps = {
+  id: string;
+  label: string;
+  value: string;
+  allLabel: string;
+  options: string[];
+  onChange: (value: string) => void;
+  theme: "light" | "dark";
+  icon: React.ReactNode;
+};
+
+function FilterDropdown({ id, label, value, allLabel, options, onChange, theme, icon }: FilterDropdownProps) {
+  const [isOpen, setIsOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  const selectedLabel = value === "all" ? allLabel : value;
+  const items = [{ value: "all", label: allLabel }, ...options.map(option => ({ value: option, label: option }))];
+
+  useEffect(() => {
+    if (!isOpen) return;
+
+    const handlePointerDown = (event: PointerEvent) => {
+      if (!dropdownRef.current?.contains(event.target as Node)) setIsOpen(false);
+    };
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setIsOpen(false);
+    };
+
+    document.addEventListener("pointerdown", handlePointerDown);
+    document.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.removeEventListener("pointerdown", handlePointerDown);
+      document.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [isOpen]);
+
+  return (
+    <div ref={dropdownRef} className="relative min-w-0">
+      <label
+        htmlFor={`${id}-button`}
+        className="mb-1.5 block text-[10px] font-bold uppercase tracking-[0.14em] text-slate-500"
+      >
+        {label}
+      </label>
+      <button
+        id={`${id}-button`}
+        type="button"
+        aria-haspopup="listbox"
+        aria-expanded={isOpen}
+        onClick={() => setIsOpen(open => !open)}
+        className={`flex w-full min-w-0 items-center justify-between gap-3 rounded-xl border px-3.5 py-3 text-left text-xs font-semibold outline-none transition-all duration-200 ${
+          theme === "dark"
+            ? isOpen
+              ? "border-rose-700/70 bg-[#101b2e] text-white ring-2 ring-rose-900/30 shadow-lg shadow-black/20"
+              : "border-gray-800 bg-[#080f1c] text-slate-300 hover:border-gray-700 hover:bg-[#0c1627]"
+            : isOpen
+              ? "border-rose-300 bg-white text-slate-900 ring-2 ring-rose-100 shadow-lg shadow-slate-900/10"
+              : "border-slate-200 bg-white text-slate-700 shadow-sm hover:border-rose-200 hover:bg-rose-50/30"
+        }`}
+      >
+        <span className="flex min-w-0 items-center gap-2.5">
+          <span className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-lg ${
+            theme === "dark" ? "bg-rose-950/50 text-rose-400" : "bg-rose-50 text-rose-600"
+          }`}>
+            {icon}
+          </span>
+          <span className="truncate">{selectedLabel}</span>
+        </span>
+        <ChevronDown className={`h-4 w-4 shrink-0 transition-transform duration-200 ${
+          isOpen ? "rotate-180 text-rose-500" : (theme === "dark" ? "text-slate-600" : "text-slate-400")
+        }`} />
+      </button>
+
+      {isOpen && (
+        <div
+          role="listbox"
+          aria-labelledby={`${id}-button`}
+          className={`absolute left-0 right-0 top-full z-30 mt-2 overflow-hidden rounded-xl border p-1.5 ${
+            theme === "dark"
+              ? "border-gray-700/80 bg-[#0b1322] shadow-[0_20px_50px_rgba(0,0,0,0.55)]"
+              : "border-slate-200 bg-white shadow-[0_20px_50px_rgba(15,23,42,0.18)]"
+          }`}
+        >
+          <div className="max-h-64 space-y-0.5 overflow-y-auto overscroll-contain pr-0.5">
+            {items.map(item => {
+              const isSelected = item.value === value;
+              return (
+                <button
+                  key={item.value}
+                  type="button"
+                  role="option"
+                  aria-selected={isSelected}
+                  onClick={() => {
+                    onChange(item.value);
+                    setIsOpen(false);
+                  }}
+                  className={`flex w-full items-center justify-between gap-3 rounded-lg px-3 py-2.5 text-left text-xs transition-colors ${
+                    isSelected
+                      ? theme === "dark"
+                        ? "bg-rose-950/55 font-semibold text-rose-300"
+                        : "bg-rose-50 font-semibold text-rose-700"
+                      : theme === "dark"
+                        ? "text-slate-400 hover:bg-slate-800/70 hover:text-white"
+                        : "text-slate-600 hover:bg-slate-100 hover:text-slate-900"
+                  }`}
+                >
+                  <span className="min-w-0 truncate">{item.label}</span>
+                  {isSelected && <Check className="h-3.5 w-3.5 shrink-0" />}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+  );
 }
 
 export default function App() {
@@ -443,14 +561,14 @@ export default function App() {
   const uniqueIndustries = useMemo(() => {
     const set = new Set<string>();
     allStartups.forEach(s => set.add(s.industry));
-    return Array.from(set);
+    return Array.from(set).sort((a, b) => a.localeCompare(b));
   }, [allStartups]);
 
   // Unique failure reasons for Filtering
   const uniqueReasons = useMemo(() => {
     const set = new Set<string>();
     allStartups.forEach(s => set.add(s.primaryFailureReason));
-    return Array.from(set);
+    return Array.from(set).sort((a, b) => a.localeCompare(b));
   }, [allStartups]);
 
   // Total calculated statistics
@@ -696,51 +814,55 @@ export default function App() {
   }
 
   return (
-    <div className={`min-h-screen w-full min-w-0 overflow-x-hidden font-sans antialiased transition-colors duration-300 ${themeStyles.bg}`} dir={isRtl ? "rtl" : "ltr"}>
+    <div className={`min-h-screen w-full min-w-0 overflow-x-clip font-sans antialiased transition-colors duration-300 ${themeStyles.bg}`} dir={isRtl ? "rtl" : "ltr"}>
       
       {/* Primary Navigation and Branding bar */}
-      <header className={`sticky top-0 z-40 backdrop-blur-md border-b transition-all duration-300 ${themeStyles.header}`}>
-        <div className="max-w-7xl mx-auto px-3 min-[360px]:px-4 py-3 min-[360px]:py-4 flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
+      <header className={`sticky top-0 z-40 w-full backdrop-blur-md border-b transition-all duration-300 ${themeStyles.header}`}>
+        <div className="max-w-7xl mx-auto px-3 min-[360px]:px-4 py-2.5 sm:py-4 flex flex-row items-center justify-between gap-2 sm:gap-4">
           
           {/* Logo Brand */}
-          <div className="flex items-center gap-3">
-            <div className="h-10 w-10 rounded-xl bg-gradient-to-tr from-rose-600 to-amber-500 flex items-center justify-center shadow-lg shadow-rose-950/20 border border-rose-500/30">
+          <div className="flex min-w-0 items-center gap-2 sm:gap-3">
+            <div className="h-9 w-9 sm:h-10 sm:w-10 shrink-0 rounded-xl bg-gradient-to-tr from-rose-600 to-amber-500 flex items-center justify-center shadow-lg shadow-rose-950/20 border border-rose-500/30">
               <Skull className="h-5.5 w-5.5 text-[#060a13] stroke-[2.5]" />
             </div>
-            <div>
-              <h1 className={`font-display font-bold text-xl tracking-tight ${theme === "dark" ? "text-white" : "text-slate-900"}`}>{t.title}</h1>
+            <div className="min-w-0">
+              <h1 className={`truncate font-display font-bold text-lg sm:text-xl tracking-tight ${theme === "dark" ? "text-white" : "text-slate-900"}`}>{t.title}</h1>
               <p className={`text-xs max-w-sm hidden md:block ${theme === "dark" ? "text-gray-400" : "text-slate-500"}`}>{t.subtitle}</p>
             </div>
           </div>
 
           {/* Action Tabs & Switchers */}
-          <div className="flex w-full min-w-0 flex-wrap items-center gap-2 min-[360px]:gap-3 justify-center sm:w-auto">
+          <div className="ml-auto flex w-auto min-w-0 shrink-0 flex-nowrap items-center gap-1.5 sm:gap-3 justify-end">
             
             {/* Tab view controller */}
-            <div className={`min-w-0 border rounded-lg p-1 flex transition-colors ${
+            <div className={`min-w-0 shrink-0 border rounded-lg p-1 flex transition-colors ${
               theme === "dark" ? "bg-[#0b1322] border-gray-800" : "bg-slate-100 border-slate-200"
             }`}>
               <button
                 onClick={() => { setActiveTab("database"); closeStartupReport(); }}
-                className={`px-2 min-[360px]:px-3 py-1.5 rounded-md text-xs font-semibold tracking-tight transition-all flex items-center gap-1.5 cursor-pointer ${
+                title={t.graveyardDb || "Graveyard DB"}
+                aria-label={t.graveyardDb || "Graveyard DB"}
+                className={`p-2 sm:px-3 sm:py-1.5 rounded-md text-xs font-semibold tracking-tight transition-all flex items-center gap-1.5 cursor-pointer ${
                   activeTab === "database" 
                     ? themeStyles.tabActive 
                     : (theme === "dark" ? "text-slate-400 hover:text-white" : "text-slate-600 hover:text-slate-900")
                 }`}
               >
                 <Database className="h-3.5 w-3.5" />
-                <span className="hidden min-[340px]:inline">{t.graveyardDb || "Graveyard DB"}</span>
+                <span className="hidden sm:inline">{t.graveyardDb || "Graveyard DB"}</span>
               </button>
               <button
                 onClick={() => setActiveTab("blueprints")}
-                className={`px-2 min-[360px]:px-3 py-1.5 rounded-md text-xs font-semibold tracking-tight transition-all flex items-center gap-1.5 cursor-pointer ${
+                title={t.blueprintTitle}
+                aria-label={t.blueprintTitle}
+                className={`p-2 sm:px-3 sm:py-1.5 rounded-md text-xs font-semibold tracking-tight transition-all flex items-center gap-1.5 cursor-pointer ${
                   activeTab === "blueprints" 
                     ? themeStyles.tabActiveBlueprint 
                     : (theme === "dark" ? "text-slate-400 hover:text-white" : "text-slate-600 hover:text-slate-900")
                 }`}
               >
                 <Terminal className="h-3.5 w-3.5" />
-                <span className="hidden min-[340px]:inline">{t.blueprintTitle}</span>
+                <span className="hidden sm:inline">{t.blueprintTitle}</span>
               </button>
             </div>
 
@@ -873,34 +995,27 @@ export default function App() {
 
                   {/* Dropdowns filters */}
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    
-                    <div>
-                      <label className={`block text-[11px] font-semibold mb-1 uppercase tracking-wider ${themeStyles.textMuted}`}>{t.filterAll}</label>
-                      <select
-                        value={selectedIndustry}
-                        onChange={(e) => setSelectedIndustry(e.target.value)}
-                        className={`w-full rounded-xl px-3 py-2.5 text-xs focus:outline-none cursor-pointer border ${themeStyles.input}`}
-                      >
-                        <option value="all" className={theme === "dark" ? "bg-[#0b1322] text-gray-300" : "bg-white text-slate-800"}>{isRtl ? "همه حوزه‌ها" : "All Industries"}</option>
-                        {uniqueIndustries.map(ind => (
-                          <option key={ind} value={ind} className={theme === "dark" ? "bg-[#0b1322] text-gray-300" : "bg-white text-slate-800"}>{ind}</option>
-                        ))}
-                      </select>
-                    </div>
+                    <FilterDropdown
+                      id="industry-filter"
+                      label={t.filterAll || "All Industries"}
+                      value={selectedIndustry}
+                      allLabel="All Industries"
+                      options={uniqueIndustries}
+                      onChange={setSelectedIndustry}
+                      theme={theme}
+                      icon={<Layers className="h-3.5 w-3.5" />}
+                    />
 
-                    <div>
-                      <label className={`block text-[11px] font-semibold mb-1 uppercase tracking-wider ${themeStyles.textMuted}`}>{t.filterReason}</label>
-                      <select
-                        value={selectedReason}
-                        onChange={(e) => setSelectedReason(e.target.value)}
-                        className={`w-full rounded-xl px-3 py-2.5 text-xs focus:outline-none cursor-pointer border ${themeStyles.input}`}
-                      >
-                        <option value="all" className={theme === "dark" ? "bg-[#0b1322] text-gray-300" : "bg-white text-slate-800"}>{isRtl ? "همه علل شکست" : "All Failure Reasons"}</option>
-                        {uniqueReasons.map(r => (
-                          <option key={r} value={r} className={theme === "dark" ? "bg-[#0b1322] text-gray-300" : "bg-white text-slate-800"}>{r}</option>
-                        ))}
-                      </select>
-                    </div>
+                    <FilterDropdown
+                      id="failure-reason-filter"
+                      label={t.filterReason || "All Failure Reasons"}
+                      value={selectedReason}
+                      allLabel="All Failure Reasons"
+                      options={uniqueReasons}
+                      onChange={setSelectedReason}
+                      theme={theme}
+                      icon={<ShieldAlert className="h-3.5 w-3.5" />}
+                    />
 
                   </div>
 
