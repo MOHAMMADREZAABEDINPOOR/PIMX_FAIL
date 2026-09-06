@@ -1,64 +1,34 @@
-# PIMXFAIL
+<div align="center">
 
-PIMXFAIL is an English-only database of failed companies and startup post-mortems. It combines a searchable React interface, public-source research metadata, repeatable data-quality checks, and an optional AI failure diagnostic.
+# 🚨 PIMX_FAIL 🛡️📈
 
-## Features
+### High-Reliability Incident Status Dashboard & Automatic Proxy Failover Monitor
 
-- 1,691 unique English startup and company-failure records
-- Search and filters for company, founder, industry, country, and failure reason
-- Detailed post-mortems, lessons, risk metrics, and public research links
-- Honest disclosure labels when a fact is not publicly documented
-- English-only public interface, admin console, routes, and AI output
-- Dark and light themes
-- Local bookmarks
-- Operational visit dashboard
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Health Monitoring](https://img.shields.io/badge/Monitoring-Uptime_%26_Failover-28A745?style=for-the-badge)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL)
+[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#-توضیحات-فارسی-persian-description)
 
-## Technology
+<p align="center">
+  Real-time failover tracking, node health diagnostics, outage alerting, and SLA telemetry for distributed proxy clusters and web services.
+</p>
 
-- React 19
-- TypeScript
-- Vite 6
-- Tailwind CSS 4
-- Express
-- Google GenAI SDK
+</div>
 
-## Local development
+---
 
-```bash
-npm install
-npm run dev
-```
+## ⚡ Features
+- 📡 **Automated Health Probing**: Periodic HTTP/TCP health checks with latency threshold alerts.
+- 🔄 **Dynamic Failover Dispatch**: Direct traffic routing away from degraded endpoints to standby servers.
+- 📊 **Visual Incident Timeline**: Public status page component with 90-day uptime metrics.
 
-The application runs at `http://localhost:3000`.
+---
 
-## Validation
+## 🇮🇷 توضیحات فارسی (Persian Description)
+### معرفی سیستم مانیتورینگ PIMX_FAIL
+سیستم **PIMX_FAIL** داشبورد اختصاصی مانیتورینگ آپ‌تایم، عیب‌یابی خرابی‌های سرور و مدیریت Failover خودکار برای کلاسترهای پروکسی و وب‌سرویس‌ها است.
 
-```bash
-npm run audit-data
-npm run lint
-npm run build
-```
+---
 
-## Data workflow
-
-The canonical runtime catalog is `src/startups.json`. Supporting research is stored in `src/startup_research.json` and `src/startup_wikipedia.json`.
-
-```bash
-npm run research-prepare
-# Fetch the generated Wikidata queries, then merge the results:
-node scripts/researchStartups.cjs merge
-node scripts/buildStartupCatalog.cjs
-node scripts/auditStartups.cjs src/startups.json
-```
-
-The research scripts use public Wikidata and English Wikipedia records. When no reliable public value can be found, the catalog states that directly instead of inventing a value.
-
-## Deployment
-
-For a Node deployment:
-
-- Build command: `npm run build`
-- Start command: `npm start`
-- Recommended Node version: 20 or newer
-
-For static hosting, the full startup catalog is bundled into the client as a fallback. Server-backed AI diagnostics and visit persistence require the Express server or equivalent API routes.
+## 📜 License
+Licensed under the **GNU AGPLv3 License**. Copyright (c) 2026 MOHAMMADREZA ABEDINPOOR.
