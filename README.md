@@ -11,7 +11,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/agpl-3.0)
 [![React: 18+](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#-بخش-فوقالعاده-مفصل-و-جامع-به-زبان-فارسی-persian-documentation)
+[![Read in Persian](https://img.shields.io/badge/مطالعه_به_فارسی-Persian_README-008080?style=for-the-badge)](#persian-documentation)
 
 <p align="center">
   <b>PIMX_FAIL</b> is an analytical post-mortem intelligence platform and knowledge repository cataloging the root causes of technology startup failures. By examining the systemic failures of hundreds of ventures across funding dry-ups, regulatory intervention, co-founder conflict, and product-market mismatch, PIMX_FAIL arms founders with defensive empirical insights.
@@ -20,7 +20,7 @@
 [Project Overview](#-project-overview) •
 [Directory Anatomy](#-exhaustive-directory--file-anatomy) •
 [Quick Start](#-quick-start) •
-[توضیحات فارسی](#-بخش-فوقالعاده-مفصل-و-جامع-به-زبان-فارسی-persian-documentation) •
+[توضیحات فارسی](#persian-documentation) •
 [License](#-copyleft-license--legal-attribution)
 
 </div>
@@ -70,7 +70,8 @@ npm run dev
 
 ---
 
-## 🇮🇷 بخش فوق‌العاده مفصل و جامع به زبان فارسی (Persian Documentation)
+## Persian Documentation
+### 🇮🇷 مستندات فوق‌العاده مفصل، جامع و فنی به زبان فارسی
 
 ### ۱. معرفی پایگاه دانش شکست استارتاپ‌ها PIMX_FAIL
 پروژه **PIMX_FAIL** یک پلتفرم تحلیلی و پایگاه داده جامع برای کالبدشکافی دلایل شکست صدها استارتاپ و کسب‌وکار فناورانه در جهان است. در فضای کارآفرینی، توجه بیش از حد به شرکت‌های موفق (سوگیری بازماندگی) باعث تکرار اشتباهات مرگبار می‌شود. این سامانه با دسته‌بندی علمی دلایل مرگ استارتاپ‌ها (اتمام نقدینگی، نبود تقاضای واقعی در بازار، اختلافات هم‌بنیان‌گذاران، و موانع قانونی)، یک راهنمای دفاعی ارزشمند برای کارآفرینان و مدیران محصول فراهم می‌آورد.
@@ -84,6 +85,6 @@ Distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" alt="Footer" width="100%" />
+<img src="./assets/footer.svg" alt="PIMX_FAIL 3D Footer" width="100%" />
 <sub>Architected by <a href="https://github.com/MOHAMMADREZAABEDINPOOR"><b>MOHAMMADREZA ABEDINPOOR</b></a>. If PIMX_FAIL sharpens your strategic thinking, leave a ⭐!</sub>
 </div>

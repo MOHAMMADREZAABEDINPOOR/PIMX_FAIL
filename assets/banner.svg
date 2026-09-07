@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="flBg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#140608" /><stop offset="50%" stop-color="#2a0d12" /><stop offset="100%" stop-color="#0e0305" /></linearGradient>
+    <linearGradient id="flNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f43f5e"><animate attributeName="stop-color" values="#f43f5e;#eab308;#a855f7;#f43f5e" dur="7s" repeatCount="indefinite" /></stop>
+      <stop offset="50%" stop-color="#eab308"><animate attributeName="stop-color" values="#eab308;#f43f5e;#38bdf8;#eab308" dur="7s" repeatCount="indefinite" /></stop>
+      <stop offset="100%" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#38bdf8;#f43f5e;#a855f7" dur="7s" repeatCount="indefinite" /></stop>
+    </linearGradient>
+    <linearGradient id="flGrid" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f43f5e" stop-opacity="0" /><stop offset="100%" stop-color="#eab308" stop-opacity="0.35" /></linearGradient>
+    <filter id="flGlow"><feGaussianBlur stdDeviation="5" result="b" /><feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge></filter>
+  </defs>
+
+  <style>
+    @keyframes flFloat { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+    .floating-box { animation: flFloat 5.6s ease-in-out infinite; }
+  </style>
+
+  <rect width="1200" height="360" fill="url(#flBg)" />
+
+  <g opacity="0.65">
+    <line x1="0" y1="260" x2="1200" y2="260" stroke="#f43f5e" stroke-opacity="0.25" stroke-width="1" />
+    <line x1="600" y1="260" x2="0" y2="360" stroke="url(#flGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="250" y2="360" stroke="url(#flGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="500" y2="360" stroke="url(#flGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="700" y2="360" stroke="url(#flGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="950" y2="360" stroke="url(#flGrid)" stroke-width="1.5" />
+    <line x1="600" y1="260" x2="1200" y2="360" stroke="url(#flGrid)" stroke-width="1.5" />
+    <line x1="0" y1="300" x2="1200" y2="300" stroke="#f43f5e" stroke-opacity="0.2" stroke-width="1" />
+    <line x1="0" y1="340" x2="1200" y2="340" stroke="#eab308" stroke-opacity="0.3" stroke-width="1.5" />
+  </g>
+
+  <circle cx="200" cy="110" r="140" fill="#f43f5e" opacity="0.08" filter="url(#flGlow)" />
+  <circle cx="960" cy="170" r="160" fill="#eab308" opacity="0.12" filter="url(#flGlow)" />
+
+  <!-- 3D Black Box Flight Recorder & Telemetry Rings -->
+  <g transform="translate(940, 180)" class="floating-box">
+    <circle cx="0" cy="0" r="110" fill="none" stroke="url(#flNeon)" stroke-width="2" stroke-dasharray="8 6" opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+    </circle>
+    <!-- Isometric Black Box -->
+    <polygon points="0,-60 50,-30 0,0 -50,-30" fill="#2d0a12" stroke="#f43f5e" stroke-width="2" filter="url(#flGlow)" />
+    <polygon points="-50,-30 0,0 0,60 -50,30" fill="#180408" stroke="#eab308" stroke-width="1.5" />
+    <polygon points="0,0 50,-30 50,30 0,60" fill="#3c0e18" stroke="#f43f5e" stroke-width="1.5" />
+
+    <!-- Pulse Beacon -->
+    <circle cx="0" cy="-60" r="8" fill="#f43f5e" filter="url(#flGlow)">
+      <animate attributeName="r" values="6;10;6" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Floating Badges -->
+    <g transform="translate(-120, -50)">
+      <rect x="0" y="0" width="85" height="22" rx="6" fill="#20060c" stroke="#f43f5e" stroke-width="1" />
+      <text x="42" y="15" font-family="'Fira Code', monospace" font-size="10" font-weight="bold" fill="#fda4af" text-anchor="middle">POST-MORTEM</text>
+    </g>
+    <g transform="translate(65, 30)">
+      <rect x="0" y="0" width="85" height="22" rx="6" fill="#20060c" stroke="#eab308" stroke-width="1" />
+      <text x="42" y="15" font-family="'Fira Code', monospace" font-size="10" font-weight="bold" fill="#facc15" text-anchor="middle">TAXONOMY</text>
+    </g>
+    <g transform="translate(-40, 70)">
+      <rect x="0" y="0" width="85" height="22" rx="6" fill="#20060c" stroke="#a855f7" stroke-width="1" />
+      <text x="42" y="15" font-family="'Fira Code', monospace" font-size="10" font-weight="bold" fill="#c084fc" text-anchor="middle">ROOT CAUSE</text>
+    </g>
+  </g>
+
+  <!-- Left Typography -->
+  <g transform="translate(80, 140)">
+    <g transform="translate(0, -35)">
+      <rect x="0" y="-14" width="280" height="24" rx="12" fill="#f43f5e" fill-opacity="0.12" stroke="#f43f5e" stroke-width="1" />
+      <circle cx="12" cy="-2" r="4" fill="#f43f5e" />
+      <text x="26" y="2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="800" fill="#f43f5e" letter-spacing="2">FAILURE TAXONOMY // AUDIT SUITE</text>
+    </g>
+
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Montserrat', sans-serif" font-size="52" font-weight="900" fill="url(#flNeon)" filter="url(#flGlow)" letter-spacing="3">
+      PIMX_FAIL
+    </text>
+
+    <text x="0" y="68" font-family="'Fira Code', monospace" font-size="16" font-weight="600" fill="#e2e8f0" letter-spacing="1">
+      ⚡ Startup Post-Mortem, Engineering Failure Taxonomy &amp; Root-Cause Database
+    </text>
+
+    <g transform="translate(0, 92)">
+      <rect x="0" y="0" width="165" height="26" rx="6" fill="#22070e" stroke="#f43f5e" stroke-width="1" />
+      <text x="82" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#fda4af" text-anchor="middle">💥 Root-Cause Trees</text>
+
+      <rect x="175" y="0" width="160" height="26" rx="6" fill="#22070e" stroke="#eab308" stroke-width="1" />
+      <text x="255" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#facc15" text-anchor="middle">📊 Failure Taxonomy</text>
+
+      <rect x="345" y="0" width="150" height="26" rx="6" fill="#22070e" stroke="#a855f7" stroke-width="1" />
+      <text x="420" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#c084fc" text-anchor="middle">🔍 Post-Mortems</text>
+
+      <rect x="505" y="0" width="150" height="26" rx="6" fill="#22070e" stroke="#38bdf8" stroke-width="1" />
+      <text x="580" y="17" font-family="'Fira Code', monospace" font-size="11" font-weight="bold" fill="#38bdf8" text-anchor="middle">🛡️ Anti-Patterns</text>
+    </g>
+  </g>
+
+  <line x1="0" y1="358" x2="1200" y2="358" stroke="url(#flNeon)" stroke-width="3" filter="url(#flGlow)" />
+</svg>
