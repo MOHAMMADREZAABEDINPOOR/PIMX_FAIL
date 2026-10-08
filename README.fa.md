@@ -10,6 +10,12 @@
 
 # 📉 PIMX FAIL
 
+<!-- pimx-live-site:start -->
+## وب‌سایت آنلاین
+
+**[مشاهدهٔ PIMX_FAIL ↗](https://pimxfail.pages.dev/)**
+<!-- pimx-live-site:end -->
+
 آرشیو قابل جست‌وجوی استارتاپ‌های شکست‌خورده با داستان شرکت‌ها، درس‌های شکست، طرح‌های فنی و تحلیل اختیاری با Gemini.
 
 [GitHub](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL) · [PIMX / Profile](https://github.com/MOHAMMADREZAABEDINPOOR) · [بنر ثابت](assets/readme/hero.png)
