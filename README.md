@@ -8,6 +8,12 @@
 
 # 📉 PIMX FAIL
 
+<!-- pimx-live-site:start -->
+## Live website
+
+**[Open PIMX_FAIL ↗](https://pimxfail.pages.dev/)**
+<!-- pimx-live-site:end -->
+
 A searchable archive of failed startups with company stories, failure lessons, technical blueprints and an optional Gemini analysis endpoint.
 
 [GitHub](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL) · [PIMX / Profile](https://github.com/MOHAMMADREZAABEDINPOOR) · [Static artwork](assets/readme/hero.png)
