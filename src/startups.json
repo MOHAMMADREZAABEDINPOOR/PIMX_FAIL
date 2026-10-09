@@ -2,23 +2,23 @@
   {
     "id": "wework",
     "name": "WeWork",
-    "slogan": "Space as a service provider that promised to elevate the world's consciousness.",
+    "slogan": "The coworking company that entered Chapter 11, then emerged after restructuring.",
     "industry": "Real Estate Tech",
     "yearFounded": 2010,
     "yearFailed": 2023,
-    "fundingRaised": "$22.0B",
-    "primaryFailureReason": "Dysfunctional Unit Economics",
-    "detailedFailureReason": "Toxic leadership, uncurbed long-term lease liabilities, and astronomical burn rate masked as software scaling.",
+    "fundingRaised": "$12.8B in its first decade",
+    "primaryFailureReason": "Lease obligations & restructuring",
+    "detailedFailureReason": "Its restructuring involved reducing debt and changing a large portfolio of office leases. The company emerged from Chapter 11 in June 2024.",
     "founders": [
       "Adam Neumann",
       "Miguel McKelvey"
     ],
     "country": "United States",
-    "postMortem": "WeWork revolutionized modern coworking but suffered from an unsustainable asset-liability mismatch. It borrowed long (signing 15 to 20-year leases) and leased short (flexible monthly subscriptions). When economic shifts reduced occupancies, the locked-in real estate obligations remained. Combined with erratic administration and wasteful side-ventures (like WeGrow and WeLive), WeWork depleted billions in capital before filing for Chapter 11 bankruptcy reorganization in late 2023.",
+    "postMortem": "Founded in 2010, WeWork built a global coworking business. Its attempted 2019 IPO exposed governance concerns and was withdrawn. In November 2023, the company entered Chapter 11 bankruptcy protection.\n\nOn June 11, 2024, WeWork announced that it had completed its restructuring and emerged from Chapter 11. Its announcement described a reduction in debt and lease commitments. This case concerns a major financial restructuring, not the permanent closure of the business.",
     "lessonsLearned": [
-      "Avoid branding standard physical asset operations as high-margin software platforms in order to inflate valuations.",
-      "Corporate governance must prevent single-founder supreme voting control.",
-      "Ensure maturity matching between long-term lease obligations and transient customer lifetimes."
+      "Stress-test long-term commitments against changes in customer demand.",
+      "Make governance and financial reporting part of the growth plan.",
+      "Distinguish a company restructuring from a company disappearing."
     ],
     "metrics": {
       "failureScore": 98,
@@ -28,28 +28,29 @@
       "competitorRiskScore": 60
     },
     "sourceUrls": [
-      "http://www.wikidata.org/entity/Q19995004"
+      "https://www.sec.gov/Archives/edgar/data/1813756/000119312524159419/d803133dex993.htm",
+      "https://en.wikipedia.org/wiki/WeWork"
     ]
   },
   {
     "id": "theranos",
     "name": "Theranos",
-    "slogan": "A biotech startup claiming to revolutionize blood testing with a single drop of blood.",
+    "slogan": "Blood-testing promises that did not withstand regulatory scrutiny.",
     "industry": "Healthcare / Biotech",
     "yearFounded": 2003,
     "yearFailed": 2018,
-    "fundingRaised": "$1.4B",
-    "primaryFailureReason": "Technical Fraud & Regulatory",
-    "detailedFailureReason": "Fabricated hardware capabilities, secretive operating environment, and severe clinical regulatory violations.",
+    "fundingRaised": "More than $700M (SEC, 2018)",
+    "primaryFailureReason": "Misrepresentation of technology",
+    "detailedFailureReason": "The SEC alleged that investors were misled about the capabilities and financial performance of the company’s blood-testing technology.",
     "founders": [
       "Elizabeth Holmes"
     ],
     "country": "United States",
-    "postMortem": "Theranos promised to perform dozens of clinical tests using automated micro-blood samples on its proprietary 'Edison' device. In reality, the technology never functioned safely or reliably. To mask failures, the company ran patient tests on commercial machines diluted with saline. Elizabeth Holmes orchestrated a highly structured culture of extreme compartmentalized secrecy, threatening whistleblowers and deceiving a star-studded board until investigative journalist John Carreyrou exposed the fraud.",
+    "postMortem": "Theranos was founded in 2003 and promoted testing from very small blood samples. In March 2018, the SEC brought fraud charges against the company, Elizabeth Holmes, and Ramesh Balwani.\n\nThe SEC said the proprietary analyzer could perform only a limited number of tests, while many tests were carried out using other commercial equipment. It also challenged claims about revenue and military deployment. Theranos dissolved in 2018.",
     "lessonsLearned": [
-      "No amount of visionary storytelling can substitute for peer-reviewed biological feedback.",
-      "Corporate boards must contain subject-matter experts capable of validating technical metrics.",
-      "Secrecy and aggressive compliance threats are leading indicators of systemic corporate fraud."
+      "Require independent evidence for technical claims.",
+      "Give specialists the authority to question product readiness.",
+      "Treat accurate communication with customers and investors as a core operating responsibility."
     ],
     "metrics": {
       "failureScore": 100,
@@ -59,7 +60,8 @@
       "competitorRiskScore": 40
     },
     "sourceUrls": [
-      "http://www.wikidata.org/entity/Q16956307"
+      "https://www.sec.gov/newsroom/press-releases/2018-41",
+      "https://en.wikipedia.org/wiki/Theranos"
     ]
   },
   {
@@ -98,22 +100,22 @@
   {
     "id": "quibi",
     "name": "Quibi",
-    "slogan": "Bite-sized high-production Hollywood-grade video content designed for mobile devices.",
+    "slogan": "A well-funded bet on short-form mobile video that closed within its launch year.",
     "industry": "Entertainment / Media",
     "yearFounded": 2018,
     "yearFailed": 2020,
     "fundingRaised": "$1.75B",
-    "primaryFailureReason": "No Market Need",
-    "detailedFailureReason": "Launching a product centered around mobile-commute consumption exactly as global pandemic lockdowns went live.",
+    "primaryFailureReason": "Insufficient subscriber demand",
+    "detailedFailureReason": "A large production budget and established industry names did not translate into a sustainable audience for the subscription service.",
     "founders": [
       "Jeffrey Katzenberg"
     ],
     "country": "United States",
-    "postMortem": "Quibi (Quick Bites) raised close to two billion dollars from big Hollywood studios to produce high-budget original shows split into 10-minute mobile-only chapters. However, the service launched in April 2020, just as the COVID-19 pandemic kept people working inside their homes next to large screens. Furthermore, the application blocked users from taking screenshots or sharing clips on social media, killing any organic discovery. It shut down and returned remains to investors after only 6 months.",
+    "postMortem": "Quibi was founded in 2018 and launched its short-form video subscription service in April 2020. It raised $1.75 billion and commissioned programming designed primarily for mobile viewing.\n\nIn October 2020, the company announced that it would wind down, about six months after launch. The service ended in December. Quibi’s leaders cited both the idea’s ability to support a standalone service and the timing of the launch. Its content library was subsequently acquired by Roku.",
     "lessonsLearned": [
-      "Do not over-fund a startup before proving customer willingness to pay for a closed-garden delivery channel.",
-      "Blocking natural user habits (e.g., sharing screenshots, making memes) is fatal for consumer growth.",
-      "Remain flexible to alter deployment modes when major macro-conditions change."
+      "Test willingness to subscribe before committing to large content budgets.",
+      "Validate when and where customers actually use the product.",
+      "Separate the strength of a team from evidence of demand."
     ],
     "metrics": {
       "failureScore": 90,
@@ -123,29 +125,28 @@
       "competitorRiskScore": 80
     },
     "sourceUrls": [
-      "http://www.wikidata.org/entity/Q65073105",
       "https://en.wikipedia.org/wiki/Quibi"
     ]
   },
   {
     "id": "juicero",
     "name": "Juicero",
-    "slogan": "Internet-connected premium juice squeezer that compressed customized organic packets.",
+    "slogan": "A connected juice press whose expensive hardware became difficult to justify.",
     "industry": "Consumer Hardware / FoodTech",
     "yearFounded": 2013,
     "yearFailed": 2017,
     "fundingRaised": "$120M",
-    "primaryFailureReason": "Over-engineering",
-    "detailedFailureReason": "Creating a highly precise $690 aluminum machine whose functions could be completed with human hands.",
+    "primaryFailureReason": "Hardware value proposition",
+    "detailedFailureReason": "Demonstrations that the produce packs could be squeezed by hand raised questions about the value of the connected press.",
     "founders": [
       "Doug Evans"
     ],
     "country": "United States",
-    "postMortem": "Juicero designed a Wi-Fi-enabled home juicing machine sold for $690. The machine operated on custom QR-coded organic fruit and vegetable pouches shipped via subscription. A Bloomberg video exposed that users could squeeze the juice bags with their bare hands just as fast and effectively as the machine. Once the redundant engineering became public, sales dropped instantly, leading to an immediate operational shutdown.",
+    "postMortem": "Founded in 2013, Juicero developed an internet-connected press for proprietary produce packs and raised $120 million. The press initially cost $699 and later sold for $399.\n\nIn 2017, Bloomberg demonstrated that packs could also be squeezed by hand. That finding undermined the perceived need for the machine. In September 2017, Juicero suspended sales, offered refunds, and sought a buyer for its business and intellectual property.",
     "lessonsLearned": [
-      "Always seek simplicity; do not use expensive mechanical parts on a problem that human fingers can resolve.",
-      "Hardware designs must defend their cost. High custom manufacturing costs must match genuine practical utility.",
-      "Ensure software ties (like QR validation) represent safety, not margin-protection DRM."
+      "Compare a product with the simplest available alternative.",
+      "Verify that hardware adds value customers will pay for.",
+      "Test the economics of both the device and its recurring supplies."
     ],
     "metrics": {
       "failureScore": 85,
@@ -155,7 +156,6 @@
       "competitorRiskScore": 40
     },
     "sourceUrls": [
-      "http://www.wikidata.org/entity/Q29523074",
       "https://en.wikipedia.org/wiki/Juicero"
     ]
   },

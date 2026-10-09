@@ -9,3 +9,24 @@ coverage/
 .tmp_wikidata/
 visits_history.json
 .responsive-chrome-profile*/
+test-results/
+playwright-report/
+.preview/
+
+# Local credentials and runtime outputs
+.env
+.env.*
+!.env.example
+.dev.vars*
+node_modules/
+dist/
+.agents/
+.qodo/
+.wrangler/
+*.log
+*.zip
+*.db
+*.sqlite*
+*.pem
+*.key
+visits_history.json

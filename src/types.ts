@@ -23,11 +23,12 @@ export interface Startup {
 }
 
 export interface AIAnalysisResult {
-  failureScore: number;
-  marketFitScore: number;
-  executionScore: number;
-  fundingRiskScore: number;
-  competitorRiskScore: number;
+  // Optional provider estimates; generic offline prompts contain no scores.
+  failureScore?: number;
+  marketFitScore?: number;
+  executionScore?: number;
+  fundingRiskScore?: number;
+  competitorRiskScore?: number;
   analysis: string;
   mistakes: string[];
   lessons: string[];

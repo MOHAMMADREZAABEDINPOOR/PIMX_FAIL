@@ -18,27 +18,14 @@ function getGeminiClient() {
   return aiInstance;
 }
 
-function scoreFromName(name: string, offset: number, minimum: number, maximum: number) {
-  let hash = offset;
-  for (let index = 0; index < name.length; index += 1) {
-    hash = name.charCodeAt(index) + ((hash << 5) - hash);
-  }
-  return minimum + (Math.abs(hash) % (maximum - minimum + 1));
-}
-
 function fallbackAnalysis(name: string, industry: string) {
   return {
     simulated: true,
-    failureScore: scoreFromName(name, 1, 65, 90),
-    marketFitScore: scoreFromName(name, 2, 15, 55),
-    executionScore: scoreFromName(name, 3, 20, 65),
-    fundingRiskScore: scoreFromName(name, 4, 60, 95),
-    competitorRiskScore: scoreFromName(name, 5, 45, 90),
-    analysis: `${name} shows an alignment gap between its value proposition, operating model, and the economics of the ${industry || "technology"} market. The available scenario suggests that scaling pressure arrived before retention, contribution margin, and repeatable distribution were proven. That combination often shortens runway while hiding the absence of durable product-market fit.\n\nThe strongest countermeasure would have been a smaller validation phase with explicit retention and cash-efficiency thresholds. Management should have treated missed thresholds as evidence requiring a product, pricing, or market change before committing additional headcount and capital.`,
+    analysis: `No AI provider is available to assess the supplied scenario for ${name}. The following are general research questions for a ${industry || "technology"} business, not findings about this company.\n\nLook for evidence of repeat use, willingness to pay, and sustainable operating costs. Compare the proposed product with the simplest alternative customers already have. Identify which assumptions require interviews, a paid pilot, or financial records before drawing a conclusion.`,
     mistakes: [
-      "Expanded before retention and unit economics were independently validated.",
-      "Allowed operating costs to grow faster than repeatable customer revenue.",
-      "Did not establish a clear decision point for changing the product or market strategy.",
+      "Is repeat customer demand demonstrated, or only assumed?",
+      "Do recurring revenues cover the costs of serving customers?",
+      "What evidence would cause the team to change its product or market strategy?",
     ],
     lessons: [
       "Require evidence of repeat use and willingness to pay before scaling distribution.",
